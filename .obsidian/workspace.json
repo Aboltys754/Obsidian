@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "24fa4e883bbdd8c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4306a42a5764c34f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dbaa2740769c43e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aboltys/Obsidian/#Синтаксис.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "add81372c3f24595",
+    "type": "split",
+    "children": [
+      {
+        "id": "4302a9900555d128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2e893837f2d564",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7d88f13ff248ad7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff4a49bd3c104481",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3948f06eab2ec6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "51a6cc76eceb6009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f45ffa3175711a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aboltys/Obsidian/#Синтаксис.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ab8cece386914f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aboltys/Obsidian/#Синтаксис.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62876dc780ded1d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af70b229b3475f79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aboltys/Obsidian/#Синтаксис.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa2e893837f2d564",
+  "lastOpenFiles": []
+}
