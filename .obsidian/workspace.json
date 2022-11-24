@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c25912b03ca7f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aboltys/React/Уроки/3 урок 31.05.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md",
+                "file": "Aboltys/React/Уроки/3 урок 31.05.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md",
+                "file": "Aboltys/React/Уроки/3 урок 31.05.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md"
+                "file": "Aboltys/React/Уроки/3 урок 31.05.2022.md"
               }
             }
           }
@@ -136,10 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e42b7e3e9dd65241",
+  "active": "7c25912b03ca7f19",
   "lastOpenFiles": [
-    "Aboltys/Git/ssh/2 ssh ключа к разным репозиториям.md",
     "Aboltys/React/Уроки/2 урок 27.05.2022.md",
+    "Aboltys/React/Уроки/1 урок 24.05.2022.md",
+    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
+    "Aboltys/Git/ssh/2 ssh ключа к разным репозиториям.md",
     "Aboltys/JS/теги/свойства data-.md",
     "Aboltys/JS/object/простой объект.md",
     "Aboltys/JS/#Object.md",
