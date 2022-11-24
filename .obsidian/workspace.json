@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4306a42a5764c34f",
+        "id": "bff6c38c98964246",
         "type": "tabs",
         "children": [
           {
-            "id": "4dbaa2740769c43e",
+            "id": "e42b7e3e9dd65241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/JS/теги/свойства data-.md",
+                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/JS/теги/свойства data-.md",
+                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/JS/теги/свойства data-.md",
+                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/JS/теги/свойства data-.md"
+                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md"
               }
             }
           }
@@ -136,11 +136,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4dbaa2740769c43e",
+  "active": "e42b7e3e9dd65241",
   "lastOpenFiles": [
+    "Aboltys/Git/ssh/2 ssh ключа к разным репозиториям.md",
+    "Aboltys/React/Уроки/2 урок 27.05.2022.md",
+    "Aboltys/JS/теги/свойства data-.md",
     "Aboltys/JS/object/простой объект.md",
     "Aboltys/JS/#Object.md",
-    "Aboltys/JS/теги/свойства data-.md",
     "Aboltys/Obsidian/#Синтаксис.md"
   ]
 }
