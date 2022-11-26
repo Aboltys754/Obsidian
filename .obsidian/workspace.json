@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bff6c38c98964246",
+        "id": "ad20c0c8a842f260",
         "type": "tabs",
         "children": [
           {
-            "id": "e42b7e3e9dd65241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/React/Уроки/2 урок 27.05.2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c25912b03ca7f19",
+            "id": "2f5fb68b2ba92204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,15 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c25912b03ca7f19",
+  "active": "2f5fb68b2ba92204",
   "lastOpenFiles": [
+    "Aboltys/JS/Функции Высшего Порядка (Higher-Order Function).md",
+    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
     "Aboltys/React/Уроки/2 урок 27.05.2022.md",
     "Aboltys/React/Уроки/1 урок 24.05.2022.md",
-    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
-    "Aboltys/Git/ssh/2 ssh ключа к разным репозиториям.md",
-    "Aboltys/JS/теги/свойства data-.md",
+    "Aboltys/React/Пакеты/Без названия.md",
     "Aboltys/JS/object/простой объект.md",
-    "Aboltys/JS/#Object.md",
-    "Aboltys/Obsidian/#Синтаксис.md"
+    "Aboltys/JS/теги/свойства data-.md",
+    "Aboltys/Git/ssh/о ssh.md",
+    "Aboltys/Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
+    "Aboltys/Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md"
   ]
 }
