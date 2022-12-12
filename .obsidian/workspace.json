@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b7617276d3e9c83",
+            "id": "85bd12487abd9cb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/React/Уроки/4 урок 03.06.2022.md",
+                "file": "Aboltys/React/Пакеты/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/React/Уроки/4 урок 03.06.2022.md",
+                "file": "Aboltys/React/Пакеты/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/React/Уроки/4 урок 03.06.2022.md",
+                "file": "Aboltys/React/Пакеты/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/React/Уроки/4 урок 03.06.2022.md"
+                "file": "Aboltys/React/Пакеты/Без названия.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b7617276d3e9c83",
+  "active": "85bd12487abd9cb9",
   "lastOpenFiles": [
-    "Aboltys/React/Пакеты/Без названия.md",
     "Aboltys/React/Уроки/4 урок 03.06.2022.md",
+    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
+    "Aboltys/React/Пакеты/Без названия.md",
     "Aboltys/React/Уроки/3 урок 31.05.2022.md",
     "2022-12-11.md",
     "Aboltys/JS/теги/свойства data-.md",
     "Aboltys/React/Уроки/2 урок 27.05.2022.md",
     "Aboltys/JS/Функции Высшего Порядка (Higher-Order Function).md",
     "Aboltys/React/Уроки/1 урок 24.05.2022.md",
-    "Aboltys/JS/object/простой объект.md",
-    "Aboltys/Git/ssh/о ssh.md"
+    "Aboltys/JS/object/простой объект.md"
   ]
 }
