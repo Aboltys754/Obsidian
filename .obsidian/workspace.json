@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2675238391560e9",
+        "id": "4f6398d3d3d859ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c159ecb595fcc7fc",
+            "id": "f73dd96d975d6244",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/venv/Установка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a6b7c58ef1c03fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/Class/Магические методы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "637eca98b9c63358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/Class/Магические методы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc4d4dfb5010605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/Class/Функции.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Python/Class/Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Python/Class/Функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aboltys/Python/Class/Функции.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bc4d4dfb5010605",
+  "active": "f73dd96d975d6244",
   "lastOpenFiles": [
+    "Aboltys/Python/venv/Установка.md",
     "Aboltys/Python/Class/Магические методы.md",
+    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
     "Aboltys/Python/Class/Функции.md",
     "Aboltys/Python/Class/Режимы доступа( инкапсуляция ).md",
     "Aboltys/Python/Ссылки.md",
-    "Aboltys/Python/venv/Установка.md",
     "Aboltys/React/Пакеты/Без названия.md",
     "Aboltys/React/Хуки(Hook)/useRef.md",
     "Aboltys/React/Хуки(Hook)/useEffect.md",
-    "Aboltys/React/Хуки(Hook)/useMemo.md",
-    "Aboltys/React/Хуки(Hook)/useState.md"
+    "Aboltys/React/Хуки(Hook)/useMemo.md"
   ]
 }
