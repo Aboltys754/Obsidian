@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6398d3d3d859ef",
+        "id": "4fe0ec405c0876bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f73dd96d975d6244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/venv/Установка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a6b7c58ef1c03fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/Class/Магические методы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "637eca98b9c63358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/Python/Class/Магические методы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc4d4dfb5010605",
+            "id": "6fa68035ec86bfe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dff2c8c789c9e962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aboltys/Python/Class/Режимы доступа( инкапсуляция ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63996192e9cad686",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "628cdb7f49571eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aboltys/Python/Class/Паттерны/Моносостояние.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Python/Class/Функции.md",
+                "file": "Aboltys/Python/Class/Паттерны/Моносостояние.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Python/Class/Функции.md",
+                "file": "Aboltys/Python/Class/Паттерны/Моносостояние.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/Python/Class/Функции.md"
+                "file": "Aboltys/Python/Class/Паттерны/Моносостояние.md"
               }
             }
           }
@@ -172,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bc4d4dfb5010605",
+  "active": "628cdb7f49571eeb",
   "lastOpenFiles": [
-    "Aboltys/Python/venv/Установка.md",
-    "Aboltys/Python/Class/Магические методы.md",
-    "Aboltys/Python/Class/Функции.md",
+    "Aboltys/Python/Class/Паттерн - Моносостояние.md",
+    "Aboltys/Python/Class/Паттерны/Моносостояние.md",
     "Aboltys/Python/Class/Режимы доступа( инкапсуляция ).md",
+    "Aboltys/Python/Class/Магические методы.md",
+    "Aboltys/Python/Class/Ссылки.md",
     "Aboltys/Python/Class/Функции.md",
+    "Aboltys/Python/venv/Установка.md",
     "Aboltys/Python/Ссылки.md",
     "Aboltys/React/Пакеты/Без названия.md",
-    "Aboltys/React/Хуки(Hook)/useRef.md",
-    "Aboltys/React/Хуки(Hook)/useEffect.md",
-    "Aboltys/React/Хуки(Hook)/useMemo.md"
+    "Aboltys/React/Хуки(Hook)/useRef.md"
   ]
 }
