@@ -32,3 +32,15 @@ const [count, setCount] = useState(initialCount);
 
 При изменении состояния происходит рендеринг компонента
 
+так же в setState можно передать другую функцию
+
+```js
+const [count, setCount] = useState(initialCount);
+  return (
+    <>
+      <button onClick={() => setCount((currentCount) => currentCount + 1)}>+</button>
+      <button onClick={() => setCount((currentCount) => currentCount - 1)}>-</button>
+    </>
+  );
+```
+
