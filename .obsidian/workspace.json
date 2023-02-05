@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "20b99b6779bfc385",
+        "id": "164d965127041edc",
         "type": "tabs",
         "children": [
           {
-            "id": "dd05197253c117e8",
+            "id": "13067e6797d68e40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/React/Уроки/5 урок 07.06.2022.md",
+                "file": "Aboltys/React/Route/5 Работа с историей, локацией и приватными роутами.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56c67b5f37d65c2a",
+            "id": "67454305297184d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/React/Хуки(Hook)/useCallback.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06963945632f0a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/React/redux/Hook/useSelector().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50bf92b3e018076e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aboltys/React/Хуки(Hook)/useState.md",
+                "file": "Aboltys/React/Route/6 Параметры поиска.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/React/Хуки(Hook)/useState.md",
+                "file": "Aboltys/React/Route/6 Параметры поиска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/React/Хуки(Hook)/useState.md",
+                "file": "Aboltys/React/Route/6 Параметры поиска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/React/Хуки(Hook)/useState.md"
+                "file": "Aboltys/React/Route/6 Параметры поиска.md"
               }
             }
           }
@@ -183,17 +159,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "50bf92b3e018076e",
+  "active": "67454305297184d2",
   "lastOpenFiles": [
-    "Aboltys/React/Хуки(Hook)/useCallback.md",
-    "Aboltys/React/redux/Hook/useSelector().md",
-    "Aboltys/React/redux/Hook/useDispatch().md",
-    "Aboltys/React/Хуки(Hook)/useContext.md",
-    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
-    "Aboltys/React/Уроки/4 урок 03.06.2022.md",
-    "Aboltys/React/Уроки/1 урок 24.05.2022.md",
-    "Aboltys/React/Уроки/2 урок 27.05.2022.md",
-    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
-    "Aboltys/React/Пакеты/Без названия.md"
+    "Aboltys/React/Route/5 Работа с историей, локацией и приватными роутами.md",
+    "Aboltys/React/Route/4 Параметры в ссылках.md",
+    "Aboltys/React/Хуки(Hook)/useRef.md",
+    "Aboltys/React/Route/3 Route NavLink.md",
+    "Aboltys/React/Route/2 Route Вынос шапки в отделный компонент.md",
+    "Aboltys/Python/Bot/Что должен знать новичек о ботах.md",
+    "Aboltys/VSCode/горячие клавиши.md",
+    "Aboltys/React/Route/1 Route начало.md",
+    "Aboltys/Python/Bot/Разработка ботов.md",
+    "Aboltys/Python/Bot/Лимиты.md"
   ]
 }
