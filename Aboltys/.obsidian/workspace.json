@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d17754e6eb234999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/DOM/Свойства узлов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af8f55ff3690924a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/DOM/Атрибуты и свойства.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/DOM/Навигация по DOM.md",
+                "file": "JS/DOM/Атрибуты и свойства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/DOM/Навигация по DOM.md",
+                "file": "JS/DOM/Атрибуты и свойства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/DOM/Навигация по DOM.md"
+                "file": "JS/DOM/Атрибуты и свойства.md"
               }
             }
           }
@@ -146,10 +171,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c2729a824ed72ba9",
+  "active": "af8f55ff3690924a",
   "lastOpenFiles": [
-    "JS/DOM/Основа DOM.md",
     "JS/DOM/Навигация по DOM.md",
+    "JS/DOM/Основа DOM.md",
+    "JS/DOM/Свойства узлов.md",
+    "JS/теги/свойства data-.md",
+    "JS/DOM/Атрибуты и свойства.md",
+    "Pasted image 20230323194709.png",
     "Pasted image 20230323114316.png",
     "Pasted image 20230323090506.png",
     "JS/DOM"
