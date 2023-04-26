@@ -11,8 +11,12 @@
             "id": "d8bf7877bf232ea5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Redux/Начало.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redux/Начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redux/Начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redux/Начало.md"
+              }
             }
           }
         ]
@@ -140,10 +148,11 @@
   },
   "active": "d8bf7877bf232ea5",
   "lastOpenFiles": [
+    "TS/ts object.md",
+    "Redux/Начало.md",
     "JS/DOM/Навигация по DOM.md",
     "JS/DOM/Свойства узлов.md",
     "React/Хуки(Hook)/useContext.md",
-    "Redux/Начало.md",
     "Redux",
     "React/Хуки(Hook)/useEffect.md",
     "React/Хуки(Hook)/useCallback.md",
