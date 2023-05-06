@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux/Начало.md",
+                "file": "JS/Регулярные выражения/RegExp.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "360d2465aaa631eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux/Начало.md",
+                "file": "JS/Регулярные выражения/RegExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux/Начало.md",
+                "file": "JS/Регулярные выражения/RegExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux/Начало.md"
+                "file": "JS/Регулярные выражения/RegExp.md"
               }
             }
           }
@@ -148,8 +156,11 @@
   },
   "active": "d8bf7877bf232ea5",
   "lastOpenFiles": [
-    "TS/ts object.md",
+    "React/Уроки/2 урок 27.05.2022.md",
+    "React/Уроки/1 урок 24.05.2022.md",
+    "SVG/сайты.md",
     "Redux/Начало.md",
+    "TS/ts object.md",
     "JS/DOM/Навигация по DOM.md",
     "JS/DOM/Свойства узлов.md",
     "React/Хуки(Hook)/useContext.md",
@@ -157,8 +168,6 @@
     "React/Хуки(Hook)/useEffect.md",
     "React/Хуки(Hook)/useCallback.md",
     "React/Уроки/3 урок 31.05.2022.md",
-    "React/Уроки/1 урок 24.05.2022.md",
-    "SVG/сайты.md",
     "JS/DOM/Атрибуты и свойства.md",
     "JS/DOM/Основа DOM.md",
     "JS/теги/свойства data-.md",
