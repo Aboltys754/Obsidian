@@ -11,8 +11,12 @@
             "id": "d8bf7877bf232ea5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/Уроки/4 урок 03.06.2022.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Уроки/4 урок 03.06.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Уроки/4 урок 03.06.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Уроки/4 урок 03.06.2022.md"
+              }
             }
           }
         ]
@@ -146,8 +154,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ae122010be15f045",
+  "active": "d8bf7877bf232ea5",
   "lastOpenFiles": [
+    "React/Уроки/5 урок 07.06.2022.md",
+    "React/Уроки/4 урок 03.06.2022.md",
+    "React/Уроки/3 урок 31.05.2022.md",
+    "React/Уроки/1 урок 24.05.2022.md",
+    "React/Уроки/2 урок 27.05.2022.md",
+    "React/Начало.md",
     "css/Псевдоклассы/Все псевдоклассы.md",
     "css/Псевдоклассы/Без названия.md",
     "css/Псевдоклассы.md",
@@ -155,8 +169,6 @@
     "JS/Регулярные выражения/RegExp.md",
     "css/Псевдоклассы",
     "css",
-    "React/Уроки/2 урок 27.05.2022.md",
-    "React/Уроки/1 урок 24.05.2022.md",
     "SVG/сайты.md",
     "Redux/Начало.md",
     "TS/ts object.md",
@@ -166,7 +178,6 @@
     "Redux",
     "React/Хуки(Hook)/useEffect.md",
     "React/Хуки(Hook)/useCallback.md",
-    "React/Уроки/3 урок 31.05.2022.md",
     "JS/DOM/Атрибуты и свойства.md",
     "JS/DOM/Основа DOM.md",
     "JS/теги/свойства data-.md",
