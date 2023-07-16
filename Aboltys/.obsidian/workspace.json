@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a07917617f1fdc1",
+        "id": "de47a175fc87bd53",
         "type": "tabs",
         "children": [
           {
-            "id": "d8bf7877bf232ea5",
+            "id": "7f06d18984e0ca63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Уроки/4 урок 03.06.2022.md",
+                "file": "Python/Tests/pytest/Начало.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Уроки/4 урок 03.06.2022.md",
+                "file": "Python/Tests/pytest/Начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Уроки/4 урок 03.06.2022.md",
+                "file": "Python/Tests/pytest/Начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Уроки/4 урок 03.06.2022.md"
+                "file": "Python/Tests/pytest/Начало.md"
               }
             }
           }
@@ -154,10 +154,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d8bf7877bf232ea5",
+  "active": "7f06d18984e0ca63",
   "lastOpenFiles": [
-    "React/Уроки/5 урок 07.06.2022.md",
+    "Python/Ссылки.md",
+    "Python/Tests/pytest/Начало.md",
+    "Python/venv/Установка.md",
+    "Python/Tests/pytest",
+    "Python/Tests",
+    "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
+    "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+    "CSS/Сделать текст не выделяемым.md",
+    "NewsLine.png",
+    "NewsLine.tsx.md",
+    "TS/ts object.md",
+    "CSS",
     "React/Уроки/4 урок 03.06.2022.md",
+    "React/Уроки/5 урок 07.06.2022.md",
     "React/Уроки/3 урок 31.05.2022.md",
     "React/Уроки/1 урок 24.05.2022.md",
     "React/Уроки/2 урок 27.05.2022.md",
@@ -171,7 +183,6 @@
     "css",
     "SVG/сайты.md",
     "Redux/Начало.md",
-    "TS/ts object.md",
     "JS/DOM/Навигация по DOM.md",
     "JS/DOM/Свойства узлов.md",
     "React/Хуки(Hook)/useContext.md",
@@ -179,8 +190,6 @@
     "React/Хуки(Hook)/useEffect.md",
     "React/Хуки(Hook)/useCallback.md",
     "JS/DOM/Атрибуты и свойства.md",
-    "JS/DOM/Основа DOM.md",
-    "JS/теги/свойства data-.md",
     "Pasted image 20230323194709.png",
     "Pasted image 20230323114316.png",
     "Pasted image 20230323090506.png",
