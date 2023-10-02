@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16f63f9fb4a432fc",
+            "id": "7c531d55e9b90f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/Redux/Начало.md",
+                "file": "Aboltys/Docker/Часто используемые команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c21d86b09780ed27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Redux/Начало.md",
+                "file": "Aboltys/Docker/Часто используемые команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Redux/Начало.md",
+                "file": "Aboltys/Docker/Часто используемые команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/Redux/Начало.md"
+                "file": "Aboltys/Docker/Часто используемые команды.md"
               }
             }
           }
@@ -146,20 +154,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "16f63f9fb4a432fc",
+  "active": "7c531d55e9b90f06",
   "lastOpenFiles": [
-    "Aboltys/React/Route/4 Параметры в ссылках.md",
-    "Aboltys/React/Route/1 Route начало.md",
-    "Aboltys/React/Хуки(Hook)/useContext.md",
-    "Aboltys/React/Route/5 Работа с историей, локацией и приватными роутами.md",
-    "Aboltys/React/Route/6 Параметры поиска.md",
-    "Aboltys/JS/DOM",
-    "Aboltys/React/Хуки(Hook)/useRef.md",
-    "Aboltys/React/Route/3 Route NavLink.md",
-    "Aboltys/React/Route/2 Route Вынос шапки в отделный компонент.md",
-    "Aboltys/Python/Bot/Что должен знать новичек о ботах.md",
-    "Aboltys/VSCode/горячие клавиши.md",
-    "Aboltys/Python/Bot/Разработка ботов.md",
-    "Aboltys/Python/Bot/Лимиты.md"
+    "Aboltys/Docker/Команды/run.md",
+    "Aboltys/Docker/Команды/pull.md",
+    "Aboltys/Docker/Часто используемые команды.md",
+    "Aboltys/Docker/Команды/restart.md",
+    "Aboltys/Docker/Команды/unpause.md",
+    "Aboltys/Docker/Команды/pause.md",
+    "Aboltys/Docker/Команды/stop.md",
+    "Aboltys/Docker/Команды/start.md",
+    "Aboltys/React/Хуки(Hook)/useCallback.md",
+    "Aboltys/Docker/Команды/ps.md",
+    "Aboltys/Docker/Команды/images.md",
+    "Aboltys/Docker/Команды/info.md",
+    "Aboltys/Docker/Команды/docker.md",
+    "Aboltys/Docker/Команды",
+    "Aboltys/React/Уроки/4 урок 03.06.2022.md",
+    "Aboltys/Docker",
+    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
+    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
+    "Aboltys/React/Уроки/2 урок 27.05.2022.md",
+    "Aboltys/React/Уроки/1 урок 24.05.2022.md",
+    "Aboltys/SVG/сайты.md",
+    "Aboltys/TS/ts object.md",
+    "Aboltys/Python/QT5/QtWidget().md",
+    "Aboltys/Python/QT5/Qt-Start.md",
+    "Aboltys/Python/QT5/QMainWindow().md",
+    "Aboltys/Obsidian/#Синтаксис.md",
+    "Aboltys/JS/DOM/Атрибуты и свойства.md",
+    "Aboltys/JS/Функции Высшего Порядка (Higher-Order Function).md",
+    "Aboltys/JS/DOM"
   ]
 }
