@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/Docker/Часто используемые команды.md",
+                "file": "Aboltys/NODE/Export.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Docker/Часто используемые команды.md",
+                "file": "Aboltys/NODE/Export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Docker/Часто используемые команды.md",
+                "file": "Aboltys/NODE/Export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/Docker/Часто используемые команды.md"
+                "file": "Aboltys/NODE/Export.md"
               }
             }
           }
@@ -156,9 +156,12 @@
   },
   "active": "7c531d55e9b90f06",
   "lastOpenFiles": [
+    "Aboltys/NODE/Начало.md",
+    "Aboltys/NODE/Export.md",
+    "Aboltys/Docker/Часто используемые команды.md",
+    "Aboltys/NODE",
     "Aboltys/Docker/Команды/run.md",
     "Aboltys/Docker/Команды/pull.md",
-    "Aboltys/Docker/Часто используемые команды.md",
     "Aboltys/Docker/Команды/restart.md",
     "Aboltys/Docker/Команды/unpause.md",
     "Aboltys/Docker/Команды/pause.md",
@@ -182,8 +185,6 @@
     "Aboltys/Python/QT5/Qt-Start.md",
     "Aboltys/Python/QT5/QMainWindow().md",
     "Aboltys/Obsidian/#Синтаксис.md",
-    "Aboltys/JS/DOM/Атрибуты и свойства.md",
-    "Aboltys/JS/Функции Высшего Порядка (Higher-Order Function).md",
     "Aboltys/JS/DOM"
   ]
 }
