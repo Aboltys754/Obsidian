@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc965dac643cfc8b",
+        "id": "65c31d63856ad74c",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f159e73dbf6623",
+            "id": "f3de49262260fc60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NODE/stream.md",
+                "file": "BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NODE/stream.md",
+                "file": "BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NODE/stream.md",
+                "file": "BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NODE/stream.md"
+                "file": "BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md"
               }
             }
           }
@@ -154,46 +154,47 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a7f159e73dbf6623",
+  "active": "f3de49262260fc60",
   "lastOpenFiles": [
-    "NODE/http.md",
+    "BD/SQL/1.2 Выборка данных/И) Выборка данных, операторы BETWEEN, IN.md",
+    "BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
+    "BD/SQL/1.2 Выборка данных/З) Выборка данных, логические операции.md",
+    "BD/SQL/1.2 Выборка данных/Ж) Выборка данных по условию.md",
+    "BD/SQL/1.2 Выборка данных/Е) Выборка данных, вычисляемые столбцы, логические функции.md",
+    "BD/SQL/1.2 Выборка данных/Д) Выборка данных, вычисляемые столбцы, математические функции.md",
+    "BD/SQL/1.2 Выборка данных/Г) Выборка данных с созданием вычисляемого столбца.md",
+    "BD/SQL/1.2 Выборка данных/В) Присвоение новых имен столбцам при формировании выборки.md",
+    "BD/SQL/1.2 Выборка данных/Б) Выборка отдельных столбцов.md",
+    "BD/SQL/1.2 Выборка данных/А) Выборка всех данных из таблицы.md",
+    "BD/SQL/1.1 Основы баз и SQL/Д) Вставка записи в таблицу.md",
+    "BD/SQL/1.2 Выборка данных",
+    "BD/SQL/1.1 Основы баз и SQL/Г) Создание таблицы.md",
+    "BD/SQL/1.1 Основы баз и SQL/В) Выбор типов данных для полей.md",
+    "BD/SQL/1.1 Основы баз и SQL/Б) Отношение, реляционная модель.md",
+    "BD/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
+    "TS/ts object.md",
+    "BD/SQL/1.1 Основы баз и SQL",
+    "BD/SQL",
+    "BD/PostgreSQL/Команды.md",
+    "BD/PostgreSQL",
+    "BD",
     "NODE/stream.md",
-    "NODE/Debug/Inspector.md",
+    "NODE/http.md",
     "NODE/Export and Import.md",
-    "NODE/Debug",
-    "NODE/ES6.md",
+    "NODE/Koa/Koa-static.md",
+    "NODE/Koa/Начало.md",
     "NODE/Начало.md",
+    "NODE/Koa",
+    "NODE/ES6.md",
+    "NODE/Debug/Inspector.md",
+    "NODE/Debug",
     "Python/Tests/pytest/Начало.md",
-    "Python/Ссылки.md",
-    "Python/venv/Установка.md",
     "Python/Tests/pytest",
     "Python/Tests",
-    "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
-    "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
-    "CSS/Сделать текст не выделяемым.md",
     "NewsLine.png",
-    "NewsLine.tsx.md",
-    "TS/ts object.md",
     "CSS",
-    "React/Уроки/4 урок 03.06.2022.md",
-    "React/Уроки/5 урок 07.06.2022.md",
-    "React/Уроки/3 урок 31.05.2022.md",
-    "React/Уроки/1 урок 24.05.2022.md",
-    "React/Уроки/2 урок 27.05.2022.md",
-    "React/Начало.md",
-    "css/Псевдоклассы/Все псевдоклассы.md",
-    "css/Псевдоклассы/Без названия.md",
-    "css/Псевдоклассы.md",
-    "css/Псевдоклассы",
-    "JS/Регулярные выражения/RegExp.md",
-    "css/Псевдоклассы",
-    "css",
-    "SVG/сайты.md",
-    "Redux/Начало.md",
-    "Redux",
     "Pasted image 20230323194709.png",
     "Pasted image 20230323114316.png",
-    "Pasted image 20230323090506.png",
-    "JS/DOM"
+    "Pasted image 20230323090506.png"
   ]
 }

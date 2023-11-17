@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/Linter/Eslint.md",
+                "file": "Aboltys/Python/fastAPI/path параметры.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Linter/Eslint.md",
+                "file": "Aboltys/Python/fastAPI/path параметры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Linter/Eslint.md",
+                "file": "Aboltys/Python/fastAPI/path параметры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/Linter/Eslint.md"
+                "file": "Aboltys/Python/fastAPI/path параметры.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
-    "Aboltys/NODE/Начало.md",
+    "Aboltys/Python/fastAPI/установка и запуск.md",
+    "Aboltys/Python/fastAPI/path параметры.md",
     "Aboltys/Linter/Eslint.md",
+    "Aboltys/Python/fastAPI",
+    "Aboltys/NODE/Начало.md",
     "Aboltys/Linter",
     "Aboltys/NODE/stream.md",
     "Aboltys/NODE/ES6.md",
@@ -184,8 +187,6 @@
     "Aboltys/React/Уроки/5 урок 07.06.2022.md",
     "Aboltys/React/Уроки/3 урок 31.05.2022.md",
     "Aboltys/React/Уроки/2 урок 27.05.2022.md",
-    "Aboltys/React/Уроки/1 урок 24.05.2022.md",
-    "Aboltys/SVG/сайты.md",
     "Aboltys/JS/DOM"
   ]
 }
