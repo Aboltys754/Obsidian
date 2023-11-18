@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/Python/fastAPI/path параметры.md",
+                "file": "Aboltys/Python/fastAPI/Тело запроса.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Python/fastAPI/path параметры.md",
+                "file": "Aboltys/Python/fastAPI/Тело запроса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Python/fastAPI/path параметры.md",
+                "file": "Aboltys/Python/fastAPI/Тело запроса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/Python/fastAPI/path параметры.md"
+                "file": "Aboltys/Python/fastAPI/Тело запроса.md"
               }
             }
           }
@@ -156,8 +156,13 @@
   },
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
-    "Aboltys/Python/fastAPI/установка и запуск.md",
+    "Aboltys/TS/ts object.md",
+    "Aboltys/Python/Django/Установка.md",
+    "Aboltys/Python/Django/Без названия.md",
+    "Aboltys/Python/fastAPI/Тело запроса.md",
+    "Aboltys/Python/fastAPI/query запросы в пути.md",
     "Aboltys/Python/fastAPI/path параметры.md",
+    "Aboltys/Python/fastAPI/установка и запуск.md",
     "Aboltys/Linter/Eslint.md",
     "Aboltys/Python/fastAPI",
     "Aboltys/NODE/Начало.md",
@@ -180,13 +185,8 @@
     "Aboltys/Docker/Команды/ps.md",
     "Aboltys/Docker/Команды/images.md",
     "Aboltys/Docker/Команды/info.md",
-    "Aboltys/Docker/Команды/docker.md",
     "Aboltys/Docker/Команды",
-    "Aboltys/React/Уроки/4 урок 03.06.2022.md",
     "Aboltys/Docker",
-    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
-    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
-    "Aboltys/React/Уроки/2 урок 27.05.2022.md",
     "Aboltys/JS/DOM"
   ]
 }
