@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
+                "file": "Aboltys/BD/SQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
+                "file": "Aboltys/BD/SQL/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
+                "file": "Aboltys/BD/SQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md"
+                "file": "Aboltys/BD/SQL/Команды.md"
               }
             }
           }
@@ -156,11 +156,14 @@
   },
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Д) Выборка данных по условию, групповые функции.md",
+    "Pasted image 20231118205732.png",
+    "Pasted image 20231118205528.png",
+    "Aboltys/BD/SQL/Команды.md",
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
     "Pasted image 20231118190705.png",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/В) Выборка данных, групповые функции MIN, MAX и AVG.md",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
     "Pasted image 20231118190354.png",
-    "Aboltys/BD/SQL/Команды.md",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Б) Выборка данных, групповые функции SUM и COUNT.md",
     "t1.png",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/А) Выбор уникальных элементов столбца.md",
@@ -184,7 +187,6 @@
     "Aboltys/TS/ts object.md",
     "Aboltys/Python/Django/Установка.md",
     "Aboltys/Python/Django/Без названия.md",
-    "Aboltys/Python/fastAPI/query запросы в пути.md",
     "Aboltys/Python/fastAPI",
     "Aboltys/Linter",
     "Aboltys/NODE",
