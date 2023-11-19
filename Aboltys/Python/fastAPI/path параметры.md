@@ -67,3 +67,27 @@ async def get_model(model_name: ModelName):
 		return {"model_name": model_name, "message": "LeCNN all the images"} 
 	return {"model_name": model_name, "message": "Have some residuals"}
 ```
+
+```python
+- `gt`: больше (`g`reater `t`han)
+- `ge`: больше или равно (`g`reater than or `e`qual)
+- `lt`: меньше (`l`ess `t`han)
+- `le`: меньше или равно (`l`ess than or `e`qual)
+```
+
+```python
+async def read_items( 
+			item_id: Annotated[int, Path(title="The ID of the item to get", gt=0, le=1000)], 
+			q: str, 
+			):
+```
+
+```python
+
+async def read_items( 
+		*, 
+		item_id: Annotated[int, Path(title="The ID of the item to get", ge=0, le=1000)], 
+		q: str, 
+		size: Annotated[float, Query(gt=0, lt=10.5)], 
+		):
+```
