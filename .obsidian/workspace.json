@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/BD/SQL/Команды.md",
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/BD/SQL/Команды.md",
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/BD/SQL/Команды.md",
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/BD/SQL/Команды.md"
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md"
               }
             }
           }
@@ -156,34 +156,35 @@
   },
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
+    "Aboltys/Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
+    "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
+    "Aboltys/Python/SQLAlchemy/Подключение.md",
+    "Aboltys/Python/SQLAlchemy/Получение строк CORE и ORM.md",
+    "Aboltys/Python/SQLAlchemy/Установка.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Г) Создание таблицы.md",
+    "Aboltys/Python/SQLAlchemy",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/В) Выбор типов данных для полей.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Д) Вставка записи в таблицу.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Б) Отношение, реляционная модель.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
+    "Aboltys/BD/SQL/1.4 Вложенные запросы/Вложенный запрос, возвращающий одно значение.md",
+    "Aboltys/BD/SQL/Команды.md",
+    "Aboltys/BD/PostgreSQL/Команды.md",
+    "Aboltys/Python/fastAPI/query запросы в пути.md",
+    "Aboltys/Python/fastAPI/path параметры.md",
+    "Aboltys/Python/fastAPI/body параметры.md",
+    "Aboltys/Python/fastAPI/Тело запроса.md",
     "Aboltys/BD/SQL/1.2 Выборка данных/Е) Выборка данных, вычисляемые столбцы, логические функции.md",
     "Aboltys/BD/SQL/1.2 Выборка данных/Ж) Выборка данных по условию.md",
     "Aboltys/BD/SQL/1.2 Выборка данных/З) Выборка данных, логические операции.md",
     "Aboltys/BD/SQL/1.2 Выборка данных/И) Выборка данных, операторы BETWEEN, IN.md",
     "Aboltys/BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
-    "Aboltys/BD/SQL/Команды.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Г) Создание таблицы.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/В) Выбор типов данных для полей.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Б) Отношение, реляционная модель.md",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/В) Выборка данных, групповые функции MIN, MAX и AVG.md",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Б) Выборка данных, групповые функции SUM и COUNT.md",
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции/А) Выбор уникальных элементов столбца.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/Г) Выборка данных с созданием вычисляемого столбца.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/Д) Выборка данных, вычисляемые столбцы, математические функции.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/В) Присвоение новых имен столбцам при формировании выборки.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/Б) Выборка отдельных столбцов.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/А) Выборка всех данных из таблицы.md",
-    "Aboltys/Python/fastAPI/body параметры.md",
-    "Aboltys/Python/fastAPI/path параметры.md",
-    "Aboltys/Python/fastAPI/query запросы в пути.md",
-    "Aboltys/Python/fastAPI/Тело запроса.md",
-    "Aboltys/Python/fastAPI/установка и запуск.md",
-    "Aboltys/BD/SQL/1.4 Вложенные запросы/Вложенный запрос, возвращающий одно значение.md",
     "Pasted image 20231119054907.png",
     "Aboltys/BD/SQL/1.4 Вложенные запросы",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/E) Выборка данных по условию, групповые функции, WHERE и HAVING.md",
     "Pasted image 20231119051635.png",
     "Pasted image 20231118205732.png",
     "Pasted image 20231118205528.png",
