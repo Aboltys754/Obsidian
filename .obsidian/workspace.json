@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md"
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
     "Aboltys/Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
-    "Aboltys/Python/SQLAlchemy/Работа с данными CORE. INSERT, SELECT,.md",
+    "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
     "Aboltys/Python/SQLAlchemy/Подключение.md",
     "Aboltys/Python/SQLAlchemy/Получение строк CORE и ORM.md",
     "Aboltys/Python/SQLAlchemy/Установка.md",
