@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Type Hints/Функции.md",
+                "file": "Python/logging/Начало.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Type Hints/Функции.md",
+                "file": "Python/logging/Начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Type Hints/Функции.md",
+                "file": "Python/logging/Начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Type Hints/Функции.md"
+                "file": "Python/logging/Начало.md"
               }
             }
           }
@@ -156,14 +156,20 @@
   },
   "active": "f3de49262260fc60",
   "lastOpenFiles": [
-    "Python/Type Hints/Полезные встроенные типы.md",
+    "Python/venv/Установка.md",
+    "Python/logging/Начало.md",
+    "Python/logging",
+    "Python/Django/Установка.md",
+    "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+    "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
+    "Git/ssh/2 ssh ключа к разным репозиториям.md",
     "Python/Type Hints/Функции.md",
+    "Python/Type Hints/Полезные встроенные типы.md",
     "Python/Type Hints.md",
     "Python/Type Hints/Переменные.md",
     "Python/Type Hints/Введение.md",
     "Python/Ссылки.md",
     "Python/Type Hints",
-    "Python/Django/Установка.md",
     "Python/Type Hints",
     "Python/Django/Без названия.md",
     "BD/SQL/Команды.md",
@@ -179,11 +185,6 @@
     "BD/SQL/1.2 Выборка данных/Д) Выборка данных, вычисляемые столбцы, математические функции.md",
     "BD/SQL/1.2 Выборка данных/Г) Выборка данных с созданием вычисляемого столбца.md",
     "BD/SQL/1.2 Выборка данных/В) Присвоение новых имен столбцам при формировании выборки.md",
-    "BD/SQL/1.2 Выборка данных/А) Выборка всех данных из таблицы.md",
-    "BD/SQL/1.2 Выборка данных/Б) Выборка отдельных столбцов.md",
-    "BD/SQL/1.1 Основы баз и SQL/В) Выбор типов данных для полей.md",
-    "BD/SQL/1.1 Основы баз и SQL/Д) Вставка записи в таблицу.md",
-    "BD/SQL/1.1 Основы баз и SQL/Г) Создание таблицы.md",
     "BD/SQL/1.2 Выборка данных",
     "BD/SQL/1.1 Основы баз и SQL",
     "BD/SQL",
@@ -191,7 +192,6 @@
     "BD",
     "NODE/Koa",
     "NODE/Debug",
-    "Python/Tests/pytest",
     "NewsLine.png",
     "Pasted image 20230323194709.png",
     "Pasted image 20230323114316.png",
