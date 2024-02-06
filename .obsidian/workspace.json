@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Aboltys/NODE/Начало.md",
+=======
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Aboltys/NODE/Начало.md",
+=======
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Aboltys/NODE/Начало.md",
+=======
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Aboltys/NODE/Начало.md"
+=======
+                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md"
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
               }
             }
           }
@@ -156,6 +172,7 @@
   },
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Aboltys/NODE/stream.md",
     "Aboltys/NODE/Начало.md",
     "Aboltys/NODE/ES6.md",
@@ -163,28 +180,58 @@
     "Aboltys/NODE/Export and Import.md",
     "Aboltys/NODE/Export.md",
     "Aboltys/Docker/Часто используемые команды.md",
+=======
+    "Aboltys/Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
+    "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+    "Aboltys/Python/SQLAlchemy/Подключение.md",
+    "Aboltys/Python/SQLAlchemy/Получение строк CORE и ORM.md",
+    "Aboltys/Python/SQLAlchemy/Установка.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Г) Создание таблицы.md",
+    "Aboltys/Python/SQLAlchemy",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/В) Выбор типов данных для полей.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Д) Вставка записи в таблицу.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Б) Отношение, реляционная модель.md",
+    "Aboltys/BD/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
+    "Aboltys/BD/SQL/1.4 Вложенные запросы/Вложенный запрос, возвращающий одно значение.md",
+    "Aboltys/BD/SQL/Команды.md",
+    "Aboltys/BD/PostgreSQL/Команды.md",
+    "Aboltys/Python/fastAPI/query запросы в пути.md",
+    "Aboltys/Python/fastAPI/path параметры.md",
+    "Aboltys/Python/fastAPI/body параметры.md",
+    "Aboltys/Python/fastAPI/Тело запроса.md",
+    "Aboltys/BD/SQL/1.2 Выборка данных/Е) Выборка данных, вычисляемые столбцы, логические функции.md",
+    "Aboltys/BD/SQL/1.2 Выборка данных/Ж) Выборка данных по условию.md",
+    "Aboltys/BD/SQL/1.2 Выборка данных/З) Выборка данных, логические операции.md",
+    "Aboltys/BD/SQL/1.2 Выборка данных/И) Выборка данных, операторы BETWEEN, IN.md",
+    "Aboltys/BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/В) Выборка данных, групповые функции MIN, MAX и AVG.md",
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Б) Выборка данных, групповые функции SUM и COUNT.md",
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/А) Выбор уникальных элементов столбца.md",
+    "Pasted image 20231119054907.png",
+    "Aboltys/BD/SQL/1.4 Вложенные запросы",
+    "Pasted image 20231119051635.png",
+    "Pasted image 20231118205732.png",
+    "Pasted image 20231118205528.png",
+    "Pasted image 20231118190705.png",
+    "Pasted image 20231118190354.png",
+    "t1.png",
+    "Aboltys/BD/SQL/1.3 Запросы, групповые опции",
+    "Aboltys/Python/fastAPI",
+    "Aboltys/Linter",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
     "Aboltys/NODE",
-    "Aboltys/Docker/Команды/run.md",
-    "Aboltys/Docker/Команды/pull.md",
-    "Aboltys/Docker/Команды/restart.md",
-    "Aboltys/Docker/Команды/unpause.md",
-    "Aboltys/Docker/Команды/pause.md",
-    "Aboltys/Docker/Команды/stop.md",
-    "Aboltys/Docker/Команды/start.md",
-    "Aboltys/React/Хуки(Hook)/useCallback.md",
-    "Aboltys/Docker/Команды/ps.md",
-    "Aboltys/Docker/Команды/images.md",
-    "Aboltys/Docker/Команды/info.md",
-    "Aboltys/Docker/Команды/docker.md",
     "Aboltys/Docker/Команды",
-    "Aboltys/React/Уроки/4 урок 03.06.2022.md",
     "Aboltys/Docker",
+<<<<<<< HEAD
     "Aboltys/React/Уроки/5 урок 07.06.2022.md",
     "Aboltys/React/Уроки/3 урок 31.05.2022.md",
     "Aboltys/React/Уроки/2 урок 27.05.2022.md",
     "Aboltys/React/Уроки/1 урок 24.05.2022.md",
     "Aboltys/SVG/сайты.md",
     "Aboltys/TS/ts object.md",
+=======
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
     "Aboltys/JS/DOM"
   ]
 }
