@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NODE/stream.md",
+                "file": "Python/Заметки по учебе/Матрицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NODE/stream.md",
+                "file": "Python/Заметки по учебе/Матрицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NODE/stream.md",
+                "file": "Python/Заметки по учебе/Матрицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NODE/stream.md"
+                "file": "Python/Заметки по учебе/Матрицы.md"
               }
             }
           }
@@ -156,44 +156,45 @@
   },
   "active": "a7f159e73dbf6623",
   "lastOpenFiles": [
-    "NODE/http.md",
+    "image.png",
+    "Python/Django/Модели данных/Создание модели данных.md",
+    "Python/Заметки по учебе/Матрицы.md",
+    "Python/Заметки по учебе",
+    "Python/Django/Создание приложения.md",
+    "Python/Django/Модели данных",
+    "Python/Django/Без названия.md",
+    "Python/Django/Запуск сервера.md",
+    "Python/Django/Установка.md",
+    "Python/Django/settings.py.md",
+    "Python/Django/Команды.md",
+    "Python/Django/Миграция.md",
+    "Python/Django/Подключение BD.md",
+    "DB/postgresql/Команды.md",
+    "Obsidian/#Синтаксис.md",
+    "DB/postgresql",
+    "DB",
+    "SQL",
     "NODE/stream.md",
-    "NODE/Debug/Inspector.md",
     "NODE/Export and Import.md",
-    "NODE/Debug",
+    "NODE/http.md",
     "NODE/ES6.md",
     "NODE/Начало.md",
-    "Python/Tests/pytest/Начало.md",
-    "Python/Ссылки.md",
-    "Python/venv/Установка.md",
+    "SVG/сайты.md",
+    "TS/ts object.md",
+    "React/Пакеты/Без названия.md",
+    "Docker/Команды/ps.md",
+    "Docker/Команды/info.md",
+    "Docker/Команды/images.md",
+    "Docker/Команды/docker.md",
+    "Git/ssh/проверка существующих ключей.md",
+    "NODE/Debug",
     "Python/Tests/pytest",
     "Python/Tests",
-    "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
-    "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
-    "CSS/Сделать текст не выделяемым.md",
     "NewsLine.png",
-    "NewsLine.tsx.md",
-    "TS/ts object.md",
     "CSS",
-    "React/Уроки/4 урок 03.06.2022.md",
-    "React/Уроки/5 урок 07.06.2022.md",
-    "React/Уроки/3 урок 31.05.2022.md",
-    "React/Уроки/1 урок 24.05.2022.md",
-    "React/Уроки/2 урок 27.05.2022.md",
-    "React/Начало.md",
-    "css/Псевдоклассы/Все псевдоклассы.md",
-    "css/Псевдоклассы/Без названия.md",
-    "css/Псевдоклассы.md",
     "css/Псевдоклассы",
-    "JS/Регулярные выражения/RegExp.md",
-    "css/Псевдоклассы",
-    "css",
-    "SVG/сайты.md",
-    "Redux/Начало.md",
-    "Redux",
     "Pasted image 20230323194709.png",
     "Pasted image 20230323114316.png",
-    "Pasted image 20230323090506.png",
-    "JS/DOM"
+    "Pasted image 20230323090506.png"
   ]
 }

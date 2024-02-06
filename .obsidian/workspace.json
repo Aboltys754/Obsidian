@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67588d6a5e706dca",
+        "id": "dc85587cb974a151",
         "type": "tabs",
         "children": [
           {
-            "id": "7c531d55e9b90f06",
+            "id": "2218cf33cbfffc4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboltys/NODE/Export.md",
+                "file": "Aboltys/NODE/Начало.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboltys/NODE/Export.md",
+                "file": "Aboltys/NODE/Начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboltys/NODE/Export.md",
+                "file": "Aboltys/NODE/Начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboltys/NODE/Export.md"
+                "file": "Aboltys/NODE/Начало.md"
               }
             }
           }
@@ -154,9 +154,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7c531d55e9b90f06",
+  "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
+    "Aboltys/NODE/stream.md",
     "Aboltys/NODE/Начало.md",
+    "Aboltys/NODE/ES6.md",
+    "Aboltys/NODE/http.md",
+    "Aboltys/NODE/Export and Import.md",
     "Aboltys/NODE/Export.md",
     "Aboltys/Docker/Часто используемые команды.md",
     "Aboltys/NODE",
@@ -181,10 +185,6 @@
     "Aboltys/React/Уроки/1 урок 24.05.2022.md",
     "Aboltys/SVG/сайты.md",
     "Aboltys/TS/ts object.md",
-    "Aboltys/Python/QT5/QtWidget().md",
-    "Aboltys/Python/QT5/Qt-Start.md",
-    "Aboltys/Python/QT5/QMainWindow().md",
-    "Aboltys/Obsidian/#Синтаксис.md",
     "Aboltys/JS/DOM"
   ]
 }
