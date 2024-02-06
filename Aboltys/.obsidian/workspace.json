@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md",
+                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md",
+                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md",
+                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md"
+                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "a7f159e73dbf6623",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Матрицы.md",
     "image.png",
     "Python/Django/Модели данных/Создание модели данных.md",
-    "Python/Заметки по учебе/Матрицы.md",
     "Python/Заметки по учебе",
     "Python/Django/Создание приложения.md",
     "Python/Django/Модели данных",
