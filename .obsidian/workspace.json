@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Aboltys/NODE/Начало.md",
+=======
                 "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Aboltys/NODE/Начало.md",
+=======
                 "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Aboltys/NODE/Начало.md",
+=======
                 "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "Aboltys/NODE/Начало.md"
+=======
                 "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md"
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
               }
             }
           }
@@ -156,6 +172,15 @@
   },
   "active": "2218cf33cbfffc4f",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Aboltys/NODE/stream.md",
+    "Aboltys/NODE/Начало.md",
+    "Aboltys/NODE/ES6.md",
+    "Aboltys/NODE/http.md",
+    "Aboltys/NODE/Export and Import.md",
+    "Aboltys/NODE/Export.md",
+    "Aboltys/Docker/Часто используемые команды.md",
+=======
     "Aboltys/Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
     "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
     "Aboltys/Python/SQLAlchemy/Подключение.md",
@@ -194,9 +219,19 @@
     "Aboltys/BD/SQL/1.3 Запросы, групповые опции",
     "Aboltys/Python/fastAPI",
     "Aboltys/Linter",
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
     "Aboltys/NODE",
     "Aboltys/Docker/Команды",
     "Aboltys/Docker",
+<<<<<<< HEAD
+    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
+    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
+    "Aboltys/React/Уроки/2 урок 27.05.2022.md",
+    "Aboltys/React/Уроки/1 урок 24.05.2022.md",
+    "Aboltys/SVG/сайты.md",
+    "Aboltys/TS/ts object.md",
+=======
+>>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
     "Aboltys/JS/DOM"
   ]
 }
