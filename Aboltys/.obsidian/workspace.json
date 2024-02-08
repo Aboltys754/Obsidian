@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/logging/Начало.md",
+                "file": "Git/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/logging/Начало.md",
+                "file": "Git/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/logging/Начало.md",
+                "file": "Git/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/logging/Начало.md"
+                "file": "Git/Команды.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "f3de49262260fc60",
   "lastOpenFiles": [
-    "Python/venv/Установка.md",
+    "Git/ssh/2 ssh ключа к разным репозиториям.md",
     "Python/logging/Начало.md",
+    "Python/venv/Установка.md",
     "Python/logging",
     "Python/Django/Установка.md",
     "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
     "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
-    "Git/ssh/2 ssh ключа к разным репозиториям.md",
     "Python/Type Hints/Функции.md",
     "Python/Type Hints/Полезные встроенные типы.md",
     "Python/Type Hints.md",
