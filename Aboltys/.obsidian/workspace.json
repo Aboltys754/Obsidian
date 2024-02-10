@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+                "file": "DB/postgresql/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+                "file": "DB/postgresql/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+                "file": "DB/postgresql/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md"
+                "file": "DB/postgresql/Команды.md"
               }
             }
           }
@@ -156,7 +156,10 @@
   },
   "active": "a7f159e73dbf6623",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Python/Django/settings.py.md",
     "Python/logging/Начало.md",
+    "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
     "Python/logging",
     "Python/fastAPI/установка и запуск.md",
     "Python/fastAPI/Тело запроса.md",
@@ -185,9 +188,6 @@
     "BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
     "BD/SQL/1.3 Запросы, групповые опции/В) Выборка данных, групповые функции MIN, MAX и AVG.md",
     "BD/SQL/1.3 Запросы, групповые опции/Б) Выборка данных, групповые функции SUM и COUNT.md",
-    "BD/SQL/1.3 Запросы, групповые опции/А) Выбор уникальных элементов столбца.md",
-    "BD/SQL/1.3 Запросы, групповые опции/E) Выборка данных по условию, групповые функции, WHERE и HAVING.md",
-    "BD/SQL/1.4 Вложенные запросы/Вложенный запрос, возвращающий одно значение.md",
     "BD/SQL/1.3 Запросы, групповые опции",
     "BD/SQL/1.4 Вложенные запросы",
     "BD/SQL/1.2 Выборка данных",
