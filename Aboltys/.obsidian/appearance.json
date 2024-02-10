@@ -1,4 +1,9 @@
 {
   "accentColor": "",
+<<<<<<< HEAD
   "theme": "obsidian"
+=======
+  "theme": "obsidian",
+  "baseFontSize": 17
+>>>>>>> 94fa5321bc10aa3a28551484101872d910ad064a
 }

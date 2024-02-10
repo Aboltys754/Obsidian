@@ -1,19 +1,23 @@
 {
   "main": {
-    "id": "07476b9917a72541",
+    "id": "43c25506b3227c3f",
     "type": "split",
     "children": [
       {
-        "id": "fc965dac643cfc8b",
+        "id": "f0602a4c55389027",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f159e73dbf6623",
+            "id": "f85b1919e500668c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DB/postgresql/Команды.md",
+=======
+                "file": "Docker/Команды/unpause.md",
+>>>>>>> 94fa5321bc10aa3a28551484101872d910ad064a
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8b4246bb5d3165a9",
+    "id": "79331fa277d231f2",
     "type": "split",
     "children": [
       {
-        "id": "044c2ed1dfd9f54d",
+        "id": "1adbf2a397d1b359",
         "type": "tabs",
         "children": [
           {
-            "id": "ae122010be15f045",
+            "id": "31d919439ea31e1a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "8d6416cbc9f5d0a9",
+            "id": "63a4bd7d2b02fcc7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +62,7 @@
             }
           },
           {
-            "id": "321af204ba62d0da",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "360d2465aaa631eb",
+            "id": "f0c2d39e5e4aa63d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,24 @@
     "width": 300
   },
   "right": {
-    "id": "3040105c8497142a",
+    "id": "6ee4763d1abed4cc",
     "type": "split",
     "children": [
       {
-        "id": "fbb3bffa065ab60a",
+        "id": "ce625567d70884aa",
         "type": "tabs",
         "children": [
           {
-            "id": "9efbb90b662c56c4",
+            "id": "be1f522ac8ce2440",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "DB/postgresql/Команды.md",
+=======
+                "file": "Docker/Команды/unpause.md",
+>>>>>>> 94fa5321bc10aa3a28551484101872d910ad064a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,23 @@
             }
           },
           {
-            "id": "6d431d8f5a6b4894",
+            "id": "df645e954e5705c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "DB/postgresql/Команды.md",
+=======
+                "file": "Docker/Команды/unpause.md",
+>>>>>>> 94fa5321bc10aa3a28551484101872d910ad064a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9a22b14c276a2905",
+            "id": "60eeb4c585ce4d06",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +132,16 @@
             }
           },
           {
-            "id": "cce627de5804a9a3",
+            "id": "117e3264b1f9a85e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "DB/postgresql/Команды.md"
+=======
+                "file": "Docker/Команды/unpause.md"
+>>>>>>> 94fa5321bc10aa3a28551484101872d910ad064a
               }
             }
           }
@@ -154,8 +162,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a7f159e73dbf6623",
+  "active": "f85b1919e500668c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/Django/settings.py.md",
     "Python/logging/Начало.md",
@@ -197,5 +206,24 @@
     "Pasted image 20230323194709.png",
     "Pasted image 20230323114316.png",
     "Pasted image 20230323090506.png"
+=======
+    "Docker/Команды/stop.md",
+    "Docker/Команды/start.md",
+    "Docker/Команды/run.md",
+    "Docker/Команды/restart.md",
+    "Docker/Команды/pull.md",
+    "Docker/Команды/ps.md",
+    "Docker/Команды/pause.md",
+    "Docker/Команды/info.md",
+    "Docker/Команды/images.md",
+    "Docker/Команды/docker.md",
+    "Docker/Часто используемые команды.md",
+    "Python/SQLAlchemy/Получение строк CORE и ORM.md",
+    "Python/fastAPI/query запросы в пути.md",
+    "Python/fastAPI/path параметры.md",
+    "Python/fastAPI/body параметры.md",
+    "Python/fastAPI/установка и запуск.md",
+    "Python/fastAPI/Тело запроса.md"
+>>>>>>> 94fa5321bc10aa3a28551484101872d910ad064a
   ]
 }
