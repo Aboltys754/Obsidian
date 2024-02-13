@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Set() Множества.md",
+                "file": "TS/ts object.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Set() Множества.md",
+                "file": "TS/ts object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Set() Множества.md",
+                "file": "TS/ts object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Set() Множества.md"
+                "file": "TS/ts object.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "1be47c91eb28c81c",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Транспортные компании/SDEK.md",
+    "DB/postgresql/Команды.md",
+    "Транспортные компании",
+    "BD/PostgreSQL/Команды.md",
     "Python/Заметки по учебе/Set() Множества.md",
+    "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/Заметки по учебе/Матрицы.md"
   ]
 }
