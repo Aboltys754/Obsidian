@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/ts object.md",
+                "file": "Python/fastAPI/установка и запуск.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/ts object.md",
+                "file": "Python/fastAPI/установка и запуск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/ts object.md",
+                "file": "Python/fastAPI/установка и запуск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/ts object.md"
+                "file": "Python/fastAPI/установка и запуск.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "1be47c91eb28c81c",
   "lastOpenFiles": [
+    "Python/venv/Установка.md",
+    "Python/fastAPI/установка и запуск.md",
+    "Python/venv/Ошибки.md",
+    "Python/Ссылки.md",
+    "TS/ts object.md",
     "Транспортные компании/SDEK.md",
     "DB/postgresql/Команды.md",
     "Транспортные компании",
