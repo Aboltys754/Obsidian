@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66e9881914c1054b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/venv/Установка.md",
+                "file": "Git/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/venv/Установка.md",
+                "file": "Git/readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/venv/Установка.md"
+                "file": "Git/readme.md.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "35cdeae89ef69864",
+  "active": "66e9881914c1054b",
   "lastOpenFiles": [
+    "Python/venv/Установка.md",
+    "Git/readme.md.md",
+    "Git/git ignore.md",
+    "Git/Команды.md",
     "Python/venv/Ошибки.md",
     "Python/logging/Начало.md"
   ]
