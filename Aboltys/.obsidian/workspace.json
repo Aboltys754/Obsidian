@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Python/Django/Установка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa1763375645d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/типы/dict словарь/Функции словаря.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Python/типы/dict словарь/Функции словаря.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Python/типы/dict словарь/Функции словаря.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/readme.md.md"
+                "file": "Python/типы/dict словарь/Функции словаря.md"
               }
             }
           }
@@ -159,9 +171,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "66e9881914c1054b",
+  "active": "afa1763375645d00",
   "lastOpenFiles": [
+    "Python/типы/dict словарь/общее о  словарях.md",
+    "Python/типы/dict словарь/Функции словаря.md",
+    "Python/типы/общее.md",
+    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Python/типы/dict словарь",
+    "Python/типы",
     "Python/venv/Установка.md",
+    "Python/Django/Установка.md",
     "Git/readme.md.md",
     "Git/git ignore.md",
     "Git/Команды.md",
