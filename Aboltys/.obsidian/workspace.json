@@ -23,12 +23,33 @@
             "id": "96ad8dc185a1ed95",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Python/Django/Установка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa1763375645d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/типы/dict словарь/Методы dict.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 4525cd2f6e36dfcc96e817843ed61976f5eef8b1
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +115,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Python/типы/dict словарь/Методы dict.md",
+>>>>>>> 4525cd2f6e36dfcc96e817843ed61976f5eef8b1
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +135,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Python/типы/dict словарь/Методы dict.md",
+>>>>>>> 4525cd2f6e36dfcc96e817843ed61976f5eef8b1
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +160,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Python/типы/dict словарь/Методы dict.md"
+              }
+>>>>>>> 4525cd2f6e36dfcc96e817843ed61976f5eef8b1
             }
           }
         ]
@@ -151,10 +186,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
+<<<<<<< HEAD
   "active": "96ad8dc185a1ed95",
+=======
+  "active": "afa1763375645d00",
+>>>>>>> 4525cd2f6e36dfcc96e817843ed61976f5eef8b1
   "lastOpenFiles": [
+    "Python/типы/dict словарь/общее о  словарях.md",
+    "Python/типы/dict словарь/Методы dict.md",
+    "Python/типы/dict словарь/Функции словаря.md",
+    "Python/типы/общее.md",
+    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Python/типы/dict словарь",
+    "Python/типы",
     "Python/venv/Установка.md",
     "Python/Django/Установка.md",
+<<<<<<< HEAD
     "Python/Django/Подключение BD.md",
     "Python/Django/Создание приложения.md",
     "Python/Django/Миграция.md",
@@ -165,6 +212,10 @@
     "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
     "Git/ssh/о ssh.md",
     "Git/ssh/проверка существующих ключей.md",
+=======
+    "Git/readme.md.md",
+    "Git/git ignore.md",
+>>>>>>> 4525cd2f6e36dfcc96e817843ed61976f5eef8b1
     "Git/Команды.md",
     "Git/readme.md.md",
     "Python/libs/psutil.md",
