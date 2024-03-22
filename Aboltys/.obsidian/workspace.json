@@ -20,15 +20,11 @@
             }
           },
           {
-            "id": "66e9881914c1054b",
+            "id": "96ad8dc185a1ed95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/readme.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/readme.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +151,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "66e9881914c1054b",
+  "active": "96ad8dc185a1ed95",
   "lastOpenFiles": [
     "Python/venv/Установка.md",
-    "Git/readme.md.md",
-    "Git/git ignore.md",
+    "Python/Django/Установка.md",
+    "Python/Django/Подключение BD.md",
+    "Python/Django/Создание приложения.md",
+    "Python/Django/Миграция.md",
+    "Python/Django/Команды.md",
+    "Python/Django/Запуск сервера.md",
+    "Python/Django/Модели данных/Создание модели данных.md",
+    "Git/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+    "Git/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
+    "Git/ssh/о ssh.md",
+    "Git/ssh/проверка существующих ключей.md",
     "Git/Команды.md",
+    "Git/readme.md.md",
+    "Python/libs/psutil.md",
+    "Python/libs.md",
+    "Python/libs",
+    "Python/Ссылки.md",
+    "VSCode/Проблемы.md",
+    "Git/git ignore.md",
     "Python/venv/Ошибки.md",
     "Python/logging/Начало.md"
   ]
