@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/libs/csv.md",
+                "file": "Python/типы/dict словарь/Методы dict.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/libs/csv.md",
+                "file": "Python/типы/dict словарь/Методы dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/libs/csv.md",
+                "file": "Python/типы/dict словарь/Методы dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/libs/csv.md"
+                "file": "Python/типы/dict словарь/Методы dict.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "0cbcf8dbb3ef23d4",
   "lastOpenFiles": [
-    "Python/libs/pyinstaller.md",
+    "Python/типы/dict словарь/Функции словаря.md",
+    "Python/типы/dict словарь/Методы dict.md",
+    "Python/типы/dict словарь/общее о  словарях.md",
     "Python/libs/csv.md",
+    "Python/libs/pyinstaller.md",
     "Python/Самописные библиотеки/mail.md",
     "Python/Заметки по учебе/Set() Множества.md",
     "Python/Заметки по учебе/Матрицы.md",
@@ -172,7 +175,6 @@
     "Python/libs/psutil.md",
     "Python/Самописные библиотеки",
     "Python/типы/общее.md",
-    "Python/типы/dict словарь/Методы dict.md",
     "Git/git lab/команды.md",
     "Git/git ignore.md",
     "Git/git hub",
