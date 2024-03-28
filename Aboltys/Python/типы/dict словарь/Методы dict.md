@@ -152,3 +152,22 @@ item = info.popitem()
 print(item) 
 print(info)
 ```
+### clear()
+Метод `clear()` удаляет все элементы из словаря.
+```python
+info = {'name': 'Bob', 'age': 25, 'job': 'Dev'}
+info.clear()
+print(info)
+>>> {}
+```
+### copy()
+Метод `copy()` создает **поверхностную** копию словаря.
+```python
+info = {'name': 'Bob', 'age': 25, 'job': 'Dev'}
+new_info = info.copy()
+new_info['name'] = 'Tim'
+print(info)
+print(new_info)
+>>> {'name': 'Bob', 'age': 25, 'job': 'Dev'}
+>>> {'name': 'Tim', 'age': 25, 'job': 'Dev'}
+```
