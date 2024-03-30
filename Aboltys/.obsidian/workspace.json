@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/типы/dict словарь/Методы dict.md",
+                "file": "Python/типы/dict словарь/Функции словаря.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/dict словарь/Методы dict.md",
+                "file": "Python/типы/dict словарь/Функции словаря.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/dict словарь/Методы dict.md",
+                "file": "Python/типы/dict словарь/Функции словаря.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/dict словарь/Методы dict.md"
+                "file": "Python/типы/dict словарь/Функции словаря.md"
               }
             }
           }
@@ -162,9 +162,13 @@
   "active": "0cbcf8dbb3ef23d4",
   "lastOpenFiles": [
     "Python/типы/dict словарь/общее о  словарях.md",
-    "Python/типы/dict словарь/Функции словаря.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/общее.md",
+    "Git/readme.md.md",
+    "Git/git ignore.md",
+    "Git/git lab/команды.md",
+    "Git/git hub/Команды.md",
+    "Python/типы/dict словарь/Функции словаря.md",
     "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/libs/csv.md",
     "Python/libs/pyinstaller.md",
@@ -172,11 +176,8 @@
     "Python/Заметки по учебе/Set() Множества.md",
     "Python/Заметки по учебе/Матрицы.md",
     "Python/Самописные библиотеки/logger.md",
-    "Git/readme.md.md",
     "Python/libs/psutil.md",
     "Python/Самописные библиотеки",
-    "Git/git lab/команды.md",
-    "Git/git ignore.md",
     "Git/git hub",
     "Git/git lab"
   ]
