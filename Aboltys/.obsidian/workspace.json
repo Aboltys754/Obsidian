@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/типы/str строка/общее о словарях.md",
+                "file": "Python/типы/dict словарь/общее о  словарях.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/str строка/общее о словарях.md",
+                "file": "Python/типы/dict словарь/общее о  словарях.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/str строка/общее о словарях.md",
+                "file": "Python/типы/dict словарь/общее о  словарях.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/str строка/общее о словарях.md"
+                "file": "Python/типы/dict словарь/общее о  словарях.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "0cbcf8dbb3ef23d4",
   "lastOpenFiles": [
-    "Python/типы/общее.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/dict словарь/Функции словаря.md",
+    "Python/типы/общее.md",
+    "Python/типы/str строка/общее о строках.md",
     "Python/типы/dict словарь/общее о  словарях.md",
-    "Python/типы/str строка/общее о словарях.md",
     "Python/типы/str строка",
     "Git/readme.md.md",
     "Git/git ignore.md",
