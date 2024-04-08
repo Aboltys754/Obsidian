@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c0efea70fa51356",
+        "id": "b95ddf05bef3d48f",
         "type": "tabs",
         "children": [
           {
-            "id": "e49d7ff56935ae7b",
+            "id": "85be9dbed28e5266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Самописные библиотеки/logger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cbcf8dbb3ef23d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/типы/модули/random.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/типы/модули/random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/типы/модули/random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/dict словарь/общее о  словарях.md"
+                "file": "Python/типы/модули/random.md"
               }
             }
           }
@@ -159,13 +146,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0cbcf8dbb3ef23d4",
+  "active": "85be9dbed28e5266",
   "lastOpenFiles": [
+    "Python/libs.md",
+    "Python/типы/модули/random.md",
+    "Python/типы/модули",
+    "Python/libs/random().md",
+    "Python/типы/общее.md",
+    "Python/типы/random().md",
+    "Python/Самописные библиотеки/logger.md",
+    "Python/типы/dict словарь/общее о  словарях.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/dict словарь/Функции словаря.md",
-    "Python/типы/общее.md",
     "Python/типы/str строка/общее о строках.md",
-    "Python/типы/dict словарь/общее о  словарях.md",
     "Python/типы/str строка",
     "Git/readme.md.md",
     "Git/git ignore.md",
@@ -177,7 +170,6 @@
     "Python/Самописные библиотеки/mail.md",
     "Python/Заметки по учебе/Set() Множества.md",
     "Python/Заметки по учебе/Матрицы.md",
-    "Python/Самописные библиотеки/logger.md",
     "Python/libs/psutil.md",
     "Python/Самописные библиотеки",
     "Git/git hub",
