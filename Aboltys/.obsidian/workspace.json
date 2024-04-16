@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/типы/модули/string.md",
+                "file": "Python/типы/модули/random.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/модули/string.md",
+                "file": "Python/типы/модули/random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/модули/string.md",
+                "file": "Python/типы/модули/random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/модули/string.md"
+                "file": "Python/типы/модули/random.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/типы/модули/random.md",
     "Python/типы/модули/string.md",
+    "Python/типы/модули/random.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/dict словарь/общее о  словарях.md",
     "Python/типы/dict словарь/Функции словаря.md",
