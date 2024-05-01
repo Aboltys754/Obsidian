@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/типы/модули/random.md",
+                "file": "Python/типы/Числа/Fractions/Основы Fractions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/модули/random.md",
+                "file": "Python/типы/Числа/Fractions/Основы Fractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/модули/random.md",
+                "file": "Python/типы/Числа/Fractions/Основы Fractions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/модули/random.md"
+                "file": "Python/типы/Числа/Fractions/Основы Fractions.md"
               }
             }
           }
@@ -148,30 +148,40 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/типы/модули/string.md",
+    "Python/типы/Числа/float/Основы.md",
+    "Python/типы/Числа/Fractions/Основы Fractions.md",
+    "Python/типы/Числа/Decimal/Основы Decimal.md",
+    "Python/типы/Числа/Fractions",
+    "Pasted image 20240501164602.png",
+    "Python/типы/Числа/Decimal",
+    "Python/типы/Числа/int",
+    "Python/типы/Числа",
+    "Python/Class/Функции.md",
+    "Python/типы/Числа/float",
+    "Python/Class/Ссылки.md",
+    "Python/Class/Режимы доступа( инкапсуляция ).md",
+    "Python/Class/Магические методы.md",
+    "Python/fastAPI/Тело запроса.md",
+    "Python/fastAPI/query запросы в пути.md",
+    "Python/fastAPI/path параметры.md",
+    "Python/fastAPI/body параметры.md",
+    "Python/fastAPI/установка и запуск.md",
+    "Python/venv/Установка.md",
+    "React/Уроки/5 урок 07.06.2022.md",
+    "React/Уроки/4 урок 03.06.2022.md",
+    "React/Уроки/3 урок 31.05.2022.md",
+    "React/Уроки/2 урок 27.05.2022.md",
+    "Python/venv/Ошибки.md",
+    "Python/libs.md",
+    "Python/Ссылки.md",
+    "React/Уроки/1 урок 24.05.2022.md",
     "Python/типы/модули/random.md",
+    "Python/типы/модули/string.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/dict словарь/общее о  словарях.md",
     "Python/типы/dict словарь/Функции словаря.md",
-    "Python/типы/общее.md",
-    "Python/libs.md",
     "Python/типы/модули",
-    "Python/libs/random().md",
-    "Python/типы/random().md",
-    "Python/Самописные библиотеки/logger.md",
-    "Python/типы/str строка/общее о строках.md",
     "Python/типы/str строка",
-    "Git/readme.md.md",
-    "Git/git ignore.md",
-    "Git/git lab/команды.md",
-    "Git/git hub/Команды.md",
-    "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/libs/csv.md",
-    "Python/libs/pyinstaller.md",
-    "Python/Самописные библиотеки/mail.md",
-    "Python/Заметки по учебе/Set() Множества.md",
-    "Python/Заметки по учебе/Матрицы.md",
-    "Python/libs/psutil.md",
     "Python/Самописные библиотеки",
     "Git/git hub",
     "Git/git lab"
