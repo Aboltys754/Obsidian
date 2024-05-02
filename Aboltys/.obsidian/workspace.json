@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/типы/Числа/Fractions/Основы Fractions.md",
+                "file": "Python/типы/Числа/Сomplex/Основы complex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/Числа/Fractions/Основы Fractions.md",
+                "file": "Python/типы/Числа/Сomplex/Основы complex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/Числа/Fractions/Основы Fractions.md",
+                "file": "Python/типы/Числа/Сomplex/Основы complex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/Числа/Fractions/Основы Fractions.md"
+                "file": "Python/типы/Числа/Сomplex/Основы complex.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/типы/Числа/float/Основы.md",
-    "Python/типы/Числа/Fractions/Основы Fractions.md",
     "Python/типы/Числа/Decimal/Основы Decimal.md",
+    "Python/типы/Числа/Сomplex/Основы complex.md",
+    "Python/типы/Числа/Fractions/Основы Fractions.md",
+    "Python/типы/Числа/Сomplex",
+    "Python/типы/Числа/float/Основы.md",
     "Python/типы/Числа/Fractions",
     "Pasted image 20240501164602.png",
     "Python/типы/Числа/Decimal",
@@ -179,11 +181,9 @@
     "Python/типы/модули/string.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/dict словарь/общее о  словарях.md",
-    "Python/типы/dict словарь/Функции словаря.md",
     "Python/типы/модули",
     "Python/типы/str строка",
     "Python/Самописные библиотеки",
-    "Git/git hub",
-    "Git/git lab"
+    "Git/git hub"
   ]
 }
