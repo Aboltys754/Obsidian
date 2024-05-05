@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/типы/модули/cmath.md",
-                "mode": "source",
+                "file": "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/типы/модули/cmath.md",
+                "file": "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/типы/модули/cmath.md",
+                "file": "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/типы/модули/cmath.md"
+                "file": "Python/типы/Числа/Сomplex/Комплексные числа в Python.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
+    "Python/типы/Числа/Сomplex/Основы complex.md",
     "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
     "Python/типы/модули/cmath.md",
-    "Python/типы/Числа/Сomplex/Основы complex.md",
     "Pasted image 20240505164100.png",
     "Pasted image 20240505164025.png",
     "Pasted image 20240505163817.png",
