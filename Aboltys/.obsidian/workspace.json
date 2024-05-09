@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции/функции с переменным количеством аргументов.md",
+                "file": "Python/Функции/Парадигмы программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции/функции с переменным количеством аргументов.md",
+                "file": "Python/Функции/Парадигмы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции/функции с переменным количеством аргументов.md",
+                "file": "Python/Функции/Парадигмы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции/функции с переменным количеством аргументов.md"
+                "file": "Python/Функции/Парадигмы программирования.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/Функции/Необязательные и именованные аргументы.md",
     "Python/Функции/функции с переменным количеством аргументов.md",
+    "Python/Функции/Парадигмы программирования.md",
+    "Python/Функции/Необязательные и именованные аргументы.md",
     "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
     "Python/Функции",
     "Python/типы/Числа/Сomplex/Основы complex.md",
@@ -190,7 +191,6 @@
     "Python/venv/Ошибки.md",
     "Python/libs.md",
     "Python/Ссылки.md",
-    "React/Уроки/1 урок 24.05.2022.md",
     "Python/типы/модули",
     "Python/типы/str строка",
     "Python/Самописные библиотеки"
