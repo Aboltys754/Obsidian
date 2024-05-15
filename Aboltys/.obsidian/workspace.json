@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции/Функции как объекты.md",
+                "file": "Python/Функции/функции высшего порядка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции/Функции как объекты.md",
+                "file": "Python/Функции/функции высшего порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции/Функции как объекты.md",
+                "file": "Python/Функции/функции высшего порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции/Функции как объекты.md"
+                "file": "Python/Функции/функции высшего порядка.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/Функции/Парадигмы программирования.md",
     "Python/Функции/Функции как объекты.md",
+    "Python/Функции/функции высшего порядка.md",
+    "Python/Функции/Парадигмы программирования.md",
     "Python/Функции/Необязательные и именованные аргументы.md",
     "Python/Функции/функции с переменным количеством аргументов.md",
     "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
@@ -190,7 +191,6 @@
     "React/Уроки/3 урок 31.05.2022.md",
     "React/Уроки/2 урок 27.05.2022.md",
     "Python/venv/Ошибки.md",
-    "Python/libs.md",
     "Python/типы/модули",
     "Python/типы/str строка",
     "Python/Самописные библиотеки"
