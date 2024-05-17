@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции/функции высшего порядка.md",
+                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции/функции высшего порядка.md",
+                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции/функции высшего порядка.md",
+                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции/функции высшего порядка.md"
+                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md"
               }
             }
           }
@@ -148,11 +148,18 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/Функции/Функции как объекты.md",
+    "Pasted image 20240517163918.png",
     "Python/Функции/функции высшего порядка.md",
     "Python/Функции/Парадигмы программирования.md",
     "Python/Функции/Необязательные и именованные аргументы.md",
+    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Функции/функции с переменным количеством аргументов.md",
+    "Python/Функции/Функции как объекты.md",
+    "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
+    "Python/типы/модули/random.md",
+    "Python/Django/Подключение BD.md",
+    "Python/Django/Команды.md",
+    "Python/Django/Запуск сервера.md",
     "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
     "Python/Функции",
     "Python/типы/Числа/Сomplex/Основы complex.md",
@@ -184,13 +191,6 @@
     "Python/fastAPI/query запросы в пути.md",
     "Python/fastAPI/path параметры.md",
     "Python/fastAPI/body параметры.md",
-    "Python/fastAPI/установка и запуск.md",
-    "Python/venv/Установка.md",
-    "React/Уроки/5 урок 07.06.2022.md",
-    "React/Уроки/4 урок 03.06.2022.md",
-    "React/Уроки/3 урок 31.05.2022.md",
-    "React/Уроки/2 урок 27.05.2022.md",
-    "Python/venv/Ошибки.md",
     "Python/типы/модули",
     "Python/типы/str строка",
     "Python/Самописные библиотеки"
