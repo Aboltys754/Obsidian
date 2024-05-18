@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+                "file": "Python/Функции/Анонимные функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+                "file": "Python/Функции/Анонимные функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+                "file": "Python/Функции/Анонимные функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md"
+                "file": "Python/Функции/Анонимные функции.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
+    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Функции/Анонимные функции.md",
     "Pasted image 20240517163918.png",
     "Python/Функции/функции высшего порядка.md",
     "Python/Функции/Парадигмы программирования.md",
     "Python/Функции/Необязательные и именованные аргументы.md",
-    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Функции/функции с переменным количеством аргументов.md",
     "Python/Функции/Функции как объекты.md",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
@@ -173,7 +174,6 @@
     "Pasted image 20240505162502.png",
     "Screenshot_1 1.png",
     "Pasted image 20240505162235.png",
-    "Screenshot_2 1.png",
     "Python/типы/Числа/Decimal/Основы Decimal.md",
     "Python/типы/Числа/Fractions/Основы Fractions.md",
     "Python/типы/Числа/Сomplex",

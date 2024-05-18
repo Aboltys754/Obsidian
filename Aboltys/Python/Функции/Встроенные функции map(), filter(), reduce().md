@@ -83,7 +83,8 @@ for value in true_values:
 ```python
 from functools import reduce 
 def func(a, b): 
-	return a + b numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
+	return a + b 
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
 total = reduce(func, numbers, 0) # в качестве начального значения 0 
 print(total)
 >>> 55
