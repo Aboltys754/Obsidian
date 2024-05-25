@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции/Анонимные функции.md",
+                "file": "Python/Функции/Функции any(), all(), zip(), enumerate().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции/Анонимные функции.md",
+                "file": "Python/Функции/Функции any(), all(), zip(), enumerate().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции/Анонимные функции.md",
+                "file": "Python/Функции/Функции any(), all(), zip(), enumerate().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции/Анонимные функции.md"
+                "file": "Python/Функции/Функции any(), all(), zip(), enumerate().md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
+    "Python/Функции/Функции с переменным количеством аргументов.md",
+    "Python/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Функции/Анонимные функции.md",
-    "Pasted image 20240517163918.png",
+    "Python/Функции/Функции как объекты.md",
     "Python/Функции/функции высшего порядка.md",
     "Python/Функции/Парадигмы программирования.md",
     "Python/Функции/Необязательные и именованные аргументы.md",
-    "Python/Функции/функции с переменным количеством аргументов.md",
-    "Python/Функции/Функции как объекты.md",
+    "Pasted image 20240517163918.png",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
     "Python/типы/модули/random.md",
     "Python/Django/Подключение BD.md",
@@ -190,7 +191,6 @@
     "Python/fastAPI/Тело запроса.md",
     "Python/fastAPI/query запросы в пути.md",
     "Python/fastAPI/path параметры.md",
-    "Python/fastAPI/body параметры.md",
     "Python/типы/модули",
     "Python/типы/str строка",
     "Python/Самописные библиотеки"
