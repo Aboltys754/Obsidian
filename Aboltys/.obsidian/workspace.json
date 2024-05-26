@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции/Встроенные функции map(), filter(), reduce().md"
+                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
+    "Python/Работа с текстовыми файломи",
+    "Python/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Функции/Необязательные и именованные аргументы.md",
     "Python/Функции/Парадигмы программирования.md",
     "Python/Функции/функции высшего порядка.md",
@@ -190,9 +192,7 @@
     "Python/типы/Числа/float",
     "Python/Class/Ссылки.md",
     "Python/Class/Режимы доступа( инкапсуляция ).md",
-    "Python/Class/Магические методы.md",
     "Python/типы/модули",
-    "Python/типы/str строка",
-    "Python/Самописные библиотеки"
+    "Python/типы/str строка"
   ]
 }
