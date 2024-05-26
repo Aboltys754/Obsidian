@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md"
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
+    "Python/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/типы/модули/random.md",
     "Python/типы/модули/string.md",
-    "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
     "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Работа с текстовыми файломи",
     "Python/Функции/Функции any(), all(), zip(), enumerate().md",
@@ -191,7 +192,6 @@
     "Python/типы/Числа",
     "Python/Class/Функции.md",
     "Python/типы/Числа/float",
-    "Python/Class/Ссылки.md",
     "Python/типы/модули",
     "Python/типы/str строка"
   ]
