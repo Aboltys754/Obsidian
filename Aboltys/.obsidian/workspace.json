@@ -148,8 +148,10 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/типы/модули/random.md",
+    "Python/типы/модули/string.md",
     "Python/Работа с текстовыми файломи/Работа с текстовыми файлами, чтение данных.md",
+    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Работа с текстовыми файломи",
     "Python/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Функции/Необязательные и именованные аргументы.md",
@@ -164,7 +166,6 @@
     "Python/Заметки по учебе/Матрицы.md",
     "Pasted image 20240517163918.png",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
-    "Python/типы/модули/random.md",
     "Python/Django/Подключение BD.md",
     "Python/Django/Запуск сервера.md",
     "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
@@ -191,7 +192,6 @@
     "Python/Class/Функции.md",
     "Python/типы/Числа/float",
     "Python/Class/Ссылки.md",
-    "Python/Class/Режимы доступа( инкапсуляция ).md",
     "Python/типы/модули",
     "Python/типы/str строка"
   ]
