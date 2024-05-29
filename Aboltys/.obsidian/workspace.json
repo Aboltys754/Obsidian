@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 2.md"
+                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
     "Python/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Python/Работа с текстовыми файломи/CSV.md",
+    "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/модули/random.md",
+    "Python/Заметки по учебе/Set() Множества.md",
+    "Python/Заметки по учебе/Матрицы.md",
+    "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/типы/модули/string.md",
     "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Работа с текстовыми файломи",
@@ -163,8 +169,6 @@
     "Python/Функции/Анонимные функции.md",
     "Python/Django/Миграция.md",
     "Python/Django/Команды.md",
-    "Python/Заметки по учебе/Set() Множества.md",
-    "Python/Заметки по учебе/Матрицы.md",
     "Pasted image 20240517163918.png",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
     "Python/Django/Подключение BD.md",
@@ -182,15 +186,11 @@
     "Pasted image 20240505162502.png",
     "Screenshot_1 1.png",
     "Pasted image 20240505162235.png",
-    "Python/типы/Числа/Decimal/Основы Decimal.md",
-    "Python/типы/Числа/Fractions/Основы Fractions.md",
     "Python/типы/Числа/Сomplex",
-    "Python/типы/Числа/float/Основы.md",
     "Python/типы/Числа/Fractions",
     "Python/типы/Числа/Decimal",
     "Python/типы/Числа/int",
     "Python/типы/Числа",
-    "Python/Class/Функции.md",
     "Python/типы/Числа/float",
     "Python/типы/модули",
     "Python/типы/str строка"
