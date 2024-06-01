@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
+                "file": "Python/Заметки по учебе/Матрицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
+                "file": "Python/Заметки по учебе/Матрицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
+                "file": "Python/Заметки по учебе/Матрицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Работа с текстовыми файломи/Работа с файлами 3.md"
+                "file": "Python/Заметки по учебе/Матрицы.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "85be9dbed28e5266",
   "lastOpenFiles": [
-    "Python/типы/модули/random.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
+    "Python/типы/модули/random.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/Работа с текстовыми файломи/CSV.md",
