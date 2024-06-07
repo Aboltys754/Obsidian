@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b95ddf05bef3d48f",
+        "id": "87bcb233f24c9129",
         "type": "tabs",
         "children": [
           {
-            "id": "85be9dbed28e5266",
+            "id": "344fab7b3dacbe16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md",
+                "file": "img/13.3-48.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md",
+                "file": "img/13.3-48.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Матрицы.md"
+                "file": "img/13.3-48.png"
               }
             }
           }
@@ -146,8 +142,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "85be9dbed28e5266",
+  "active": "b0f6ae3438caebb4",
   "lastOpenFiles": [
+    "img/13.3-48 1.png",
+    "img/13.3-48.png",
+    "Python/Заметки по учебе/Матрицы.md",
+    "img/image.png",
+    "img/13.3-48 2.png",
+    "img/Screenshot_4 1.png",
+    "img/Screenshot_4.png",
+    "img/Screenshot_3.png",
+    "img/Screenshot_2 1.png",
+    "img/Screenshot_2.png",
+    "img/Screenshot_1 1.png",
+    "img/Pasted image 20231118190705.png.md",
+    "img",
     "Python/Работа с текстовыми файломи/Работа с файлами 3.md",
     "Python/типы/модули/random.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 1.md",
@@ -155,7 +164,6 @@
     "Python/Работа с текстовыми файломи/CSV.md",
     "Python/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Set() Множества.md",
-    "Python/Заметки по учебе/Матрицы.md",
     "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/типы/модули/string.md",
     "Python/Функции/Встроенные функции map(), filter(), reduce().md",
@@ -169,30 +177,17 @@
     "Python/Функции/Анонимные функции.md",
     "Python/Django/Миграция.md",
     "Python/Django/Команды.md",
-    "Pasted image 20240517163918.png",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
     "Python/Django/Подключение BD.md",
     "Python/Django/Запуск сервера.md",
     "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
     "Python/Функции",
-    "Python/типы/Числа/Сomplex/Основы complex.md",
-    "Python/типы/модули/cmath.md",
-    "Pasted image 20240505164100.png",
-    "Pasted image 20240505164025.png",
-    "Pasted image 20240505163817.png",
-    "Pasted image 20240505163650.png",
-    "Pasted image 20240505163633.png",
-    "Pasted image 20240505163434.png",
-    "Pasted image 20240505162502.png",
-    "Screenshot_1 1.png",
-    "Pasted image 20240505162235.png",
     "Python/типы/Числа/Сomplex",
     "Python/типы/Числа/Fractions",
     "Python/типы/Числа/Decimal",
     "Python/типы/Числа/int",
     "Python/типы/Числа",
     "Python/типы/Числа/float",
-    "Python/типы/модули",
-    "Python/типы/str строка"
+    "Python/типы/модули"
   ]
 }
