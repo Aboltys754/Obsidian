@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "87bcb233f24c9129",
+        "id": "e5e1ea818f7de704",
         "type": "tabs",
         "children": [
           {
-            "id": "344fab7b3dacbe16",
+            "id": "653f4bbdfcdcdfbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/типы/dict словарь/Методы dict.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/13.3-48.png",
+                "file": "Python/типы/dict словарь/Методы dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/13.3-48.png",
+                "file": "Python/типы/dict словарь/Методы dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/13.3-48.png"
+                "file": "Python/типы/dict словарь/Методы dict.md"
               }
             }
           }
@@ -142,8 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b0f6ae3438caebb4",
+  "active": "653f4bbdfcdcdfbb",
   "lastOpenFiles": [
+    "Python/типы/общее.md",
+    "Python/типы/dict словарь/Методы dict.md",
+    "Python/типы/dict словарь/Функции словаря.md",
+    "Python/типы/dict словарь/общее о  словарях.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "Python/Заметки по учебе/Матрицы.md",
@@ -162,7 +170,6 @@
     "Python/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/Работа с текстовыми файломи/CSV.md",
-    "Python/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Set() Множества.md",
     "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/типы/модули/string.md",
@@ -179,8 +186,6 @@
     "Python/Django/Команды.md",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
     "Python/Django/Подключение BD.md",
-    "Python/Django/Запуск сервера.md",
-    "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
     "Python/Функции",
     "Python/типы/Числа/Сomplex",
     "Python/типы/Числа/Fractions",
