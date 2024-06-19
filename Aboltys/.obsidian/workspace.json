@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Коллекции классификация.md",
+                "file": "Python/Хабр.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Коллекции классификация.md",
+                "file": "Python/Хабр.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Коллекции классификация.md",
+                "file": "Python/Хабр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Коллекции классификация.md"
+                "file": "Python/Хабр.md"
               }
             }
           }
@@ -148,8 +148,21 @@
   },
   "active": "344fab7b3dacbe16",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Матрицы.md",
+    "Python/типы/dict словарь/Методы dict.md",
+    "Python/Хабр.md",
+    "Python/Хабр/Без названия.md",
+    "Python/Хабр",
+    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Функции/Необязательные и именованные аргументы.md",
+    "Python/Функции/Парадигмы программирования.md",
+    "Python/Функции/функции высшего порядка.md",
+    "Python/Функции/Функции как объекты.md",
+    "Python/Функции/Функции с переменным количеством аргументов.md",
+    "Python/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Заметки по учебе/Коллекции классификация.md",
+    "Python/Заметки по учебе/Матрицы.md",
+    "Python/типы/dict словарь/общее о  словарях.md",
+    "Python/типы/dict словарь/Функции словаря.md",
     "Python/Заметки по учебе/Set() Множества.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
@@ -168,30 +181,18 @@
     "Python/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/Работа с текстовыми файломи/CSV.md",
-    "Python/типы/dict словарь/Методы dict.md",
     "Python/типы/модули/string.md",
-    "Python/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Работа с текстовыми файломи",
-    "Python/Функции/Функции any(), all(), zip(), enumerate().md",
-    "Python/Функции/Необязательные и именованные аргументы.md",
-    "Python/Функции/Парадигмы программирования.md",
-    "Python/Функции/функции высшего порядка.md",
-    "Python/Функции/Функции как объекты.md",
-    "Python/Функции/Функции с переменным количеством аргументов.md",
     "Python/Функции/Анонимные функции.md",
     "Python/Django/Миграция.md",
     "Python/Django/Команды.md",
     "DB/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
-    "Python/Django/Подключение BD.md",
-    "Python/Django/Запуск сервера.md",
-    "Python/типы/Числа/Сomplex/Комплексные числа в Python.md",
     "Python/Функции",
     "Python/типы/Числа/Сomplex",
     "Python/типы/Числа/Fractions",
     "Python/типы/Числа/Decimal",
     "Python/типы/Числа/int",
     "Python/типы/Числа",
-    "Python/типы/Числа/float",
-    "Python/типы/модули"
+    "Python/типы/Числа/float"
   ]
 }
