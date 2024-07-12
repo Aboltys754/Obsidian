@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Декораторы/Декоратора.md",
+                "file": "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Декораторы/Декоратора.md",
+                "file": "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Декораторы/Декоратора.md",
+                "file": "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Декораторы/Декоратора.md"
+                "file": "Python/Заметки по учебе/Декораторы/Декораторы_2.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "344fab7b3dacbe16",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Декораторы/Декораторы_1.md",
+    "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
     "Python/Заметки по учебе/Матрицы.md",
-    "Python/Заметки по учебе/Декораторы/Декоратора.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Декораторы",
     "Python/venv/Установка.md",
@@ -187,7 +188,6 @@
     "Python/Заметки по учебе/типы/модули/random.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/CSV.md",
-    "Python/Заметки по учебе/типы/модули/string.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи",
     "Python/Заметки по учебе/Функции",
     "Python/Заметки по учебе/типы/Числа/Сomplex",
