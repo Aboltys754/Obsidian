@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87bcb233f24c9129",
+        "id": "01cb4f90feca8e44",
         "type": "tabs",
         "children": [
           {
-            "id": "344fab7b3dacbe16",
+            "id": "1746ce94202494e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/readme.md.md"
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md"
               }
             }
+          },
+          {
+            "id": "21d5bbc55f33e9d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -146,12 +156,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "344fab7b3dacbe16",
+  "active": "1746ce94202494e7",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Работа с датами и временем/adsad.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с датами и временем",
+    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+    "Python/Заметки по учебе/Работа с файлами",
+    "Git/readme.md.md",
     "Git/git book.md",
     "Git/git lab/команды.md",
     "Git/git ignore.md",
-    "Git/readme.md.md",
     "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Импорты.md",
     "Python/Celery/Celery для новичков.md",
@@ -162,7 +178,6 @@
     "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/Заметки по учебе/Декораторы/Декораторы_1.md",
     "Python/Заметки по учебе/Матрицы.md",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Декораторы",
     "Python/venv/Установка.md",
     "Python/openCV/Ссылки.md",
@@ -176,9 +191,6 @@
     "Python/Хабр",
     "Python/Заметки по учебе/Функции/Парадигмы программирования.md",
     "Python/Заметки по учебе/Функции/функции высшего порядка.md",
-    "Python/Заметки по учебе/Функции/Функции как объекты.md",
-    "Python/Заметки по учебе/Функции/Функции с переменным количеством аргументов.md",
-    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "img/image.png",
@@ -191,8 +203,6 @@
     "img/Screenshot_1 1.png",
     "img",
     "Python/Заметки по учебе/Работа с текстовыми файломи",
-    "Python/Заметки по учебе/Функции",
-    "Python/Заметки по учебе/типы/Числа/Сomplex",
-    "Python/Заметки по учебе/типы/Числа/Fractions"
+    "Python/Заметки по учебе/Функции"
   ]
 }
