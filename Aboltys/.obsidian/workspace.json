@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md"
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "1746ce94202494e7",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Работа с датами и временем/adsad.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
+    "Obsidian/#Синтаксис.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
     "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/Работа с датами и временем",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
@@ -190,7 +191,6 @@
     "Python/Хабр/Без названия.md",
     "Python/Хабр",
     "Python/Заметки по учебе/Функции/Парадигмы программирования.md",
-    "Python/Заметки по учебе/Функции/функции высшего порядка.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "img/image.png",
