@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+                "file": "Python/Selenium/Драйверы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+                "file": "Python/Selenium/Драйверы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+                "file": "Python/Selenium/Драйверы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md"
+                "file": "Python/Selenium/Драйверы.md"
               }
             }
           },
@@ -147,20 +147,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1746ce94202494e7",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Драйверы.md",
+    "Python/Selenium/Импорты.md",
+    "Python/venv/Установка.md",
+    "Python/venv/Ошибки.md",
     "Obsidian/#Синтаксис.md",
+    "VSCode/Venv/Установка Venv.md",
+    "VSCode/горячие клавиши.md",
+    "VSCode/Проблемы.md",
     "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
     "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/Работа с датами и временем",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
@@ -169,8 +177,6 @@
     "Git/git book.md",
     "Git/git lab/команды.md",
     "Git/git ignore.md",
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
-    "Python/Selenium/Импорты.md",
     "Python/Celery/Celery для новичков.md",
     "Python/Celery",
     "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
@@ -180,17 +186,11 @@
     "Python/Заметки по учебе/Декораторы/Декораторы_1.md",
     "Python/Заметки по учебе/Матрицы.md",
     "Python/Заметки по учебе/Декораторы",
-    "Python/venv/Установка.md",
     "Python/openCV/Ссылки.md",
     "Python/Ссылки.md",
     "Python/openCV",
     "Python/Заметки по учебе/Функции/Необязательные и именованные аргументы.md",
-    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Хабр.md",
-    "Python/Хабр/Без названия.md",
     "Python/Хабр",
-    "Python/Заметки по учебе/Функции/Парадигмы программирования.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "img/image.png",
