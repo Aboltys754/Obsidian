@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+>>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+>>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+>>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md"
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
+>>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
               }
             }
           },
@@ -158,22 +174,33 @@
   },
   "active": "1746ce94202494e7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Python/Selenium/Поиск элементов/Поиск элементов с помощью CSS-селекторов.md",
     "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
     "Python/Selenium/Поиск элементов/Поиск элементов с помощью составных CSS-селекторов.md",
     "Python/Selenium/Поиск элементов",
     "Python/Selenium/Драйверы.md",
+=======
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
+    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Заметки по учебе/Функции/Анонимные функции.md",
+    "Python/Заметки по учебе/Set() Множества.md",
+    "Python/Заметки по учебе/Матрицы.md",
+    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Python/Заметки по учебе/типы/общее.md",
+>>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
     "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Импорты.md",
+    "Python/Selenium/Драйверы.md",
     "Python/venv/Установка.md",
     "Python/venv/Ошибки.md",
     "Obsidian/#Синтаксис.md",
     "VSCode/Venv/Установка Venv.md",
     "VSCode/горячие клавиши.md",
     "VSCode/Проблемы.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/Работа с датами и временем",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Работа с файлами",
@@ -185,10 +212,6 @@
     "Python/Celery",
     "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
     "Python/Selenium",
-    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
-    "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/Заметки по учебе/Декораторы/Декораторы_1.md",
-    "Python/Заметки по учебе/Матрицы.md",
     "Python/Заметки по учебе/Декораторы",
     "Python/openCV",
     "Python/Хабр",

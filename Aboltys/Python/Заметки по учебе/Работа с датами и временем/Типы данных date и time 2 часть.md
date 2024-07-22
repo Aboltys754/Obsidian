@@ -1,6 +1,6 @@
 1. [[#Форматирование даты и времени]]
-2. Преобразование строки в дату и время
-3. Локализация при форматировании даты и времени,
+2. [[#Преобразование строки в дату и время]]
+3. [[#Использование локализации]],
 
 
 ## Форматирование даты и времени
@@ -8,7 +8,7 @@
 По умолчанию вывод даты и времени осуществляется в ISO формате:
 - дата имеет вид: `YYYY-MM-DD`
 - время имеет вид: `HH:MM:SS` или `HH:MM:SS.ffffff`
-Для форматированного вывода даты и времени используется метод `strftime()` (для обоих типов `date` и `time`).
+Для форматированного вывода даты и времени используется метод `strftime()` (для обоих типов `date` и `time`). 
 ```python
 from datetime import date, time 
 my_date = date(2021, 8, 10) 
@@ -86,6 +86,101 @@ print(given_time.strftime('%I:%M:%S %p'))
 >>> 14:04:29 
 >>> 02:04:29 PM
 ```
+## Использование локализации
+https://docs-python.ru/standart-library/modul-locale-python/
 
+Для того чтобы использовать конкретную локализацию (перевод на язык), нужно использовать модуль `locale`.
+```python
+from datetime import date 
+import locale 
+locale.setlocale(locale.LC_ALL, 'ru_RU.UTF-8') 
+my_date = date(2021, 8, 10) 
+print(my_date.strftime("%A %d, %B %Y")) # форматированный вывод даты в русской локализации
+>>> вторник 10, Август 2021
+```
+Для установки английской локализации используется код:
+```python
+import locale 
+locale.setlocale(locale.LC_ALL, 'en_EN.UTF-8')
+```
+
+
+Для того, чтобы получить строковое представление объектов типа `date` и `time` в ISO формате, можно воспользоваться методом `isoformat()`
+```python
+from datetime import date, time 
+my_date = date(2021, 12, 31) 
+my_time = time(21, 15, 17) 
+print('Дата: ' + my_date.isoformat()) 
+print('Время: ' + my_time.isoformat())
+>>> Дата: 2021-12-31 
+>>> Время: 21:15:17
+```
+Аналогичный результат можно получить с помощью вызова встроенной функции `str()`:
+```python
+from datetime import date, time 
+my_date = date(2021, 12, 31) 
+my_time = time(21, 15, 17) 
+print('Дата: ' + str(my_date)) 
+print('Время: ' + str(my_time))
+```
+## Преобразование строки в дату и время
+
+- преобразовать данные самостоятельно
+- преобразовывать данные с помощью метода `strptime()` типа `datetime` (о котором будет рассказано в следующем уроке)
+```python
+from datetime import date, time 
+day, month, year = input('Введите дату в формате ДД.ММ.ГГГГ').split('.') 
+hour, minute, second = input('Введите время в формате ЧЧ:ММ:СС').split(':') 
+my_date = date(int(year), int(month), int(day)) # создаем объект типа date 
+my_time = time(int(hour), int(minute), int(second)) # создаем объект типа time 
+print(my_date) 
+print(my_time)
+
+>>> 2021-11-13 
+>>> 21:34:59
+```
+Если пользователь введет данные в неправильном формате, то мы можем получить самые разные ошибки (исключения) — от `ValueError` до `IndexError`. К тому же, если мы вдруг решим изменить формат входных данных, нам придется существенно переписать код для преобразования строки в дату/время.
+
+Для того чтобы поймать и обработать исключение, в Python используется конструкция `try-except`
+```python
+from datetime import date, time 
+try: day, month, year = input('Введите дату в формате ДД.ММ.ГГГГ').split('.') 
+	my_date = date(int(year), int(month), int(day)) 
+	print(my_date) 
+except ValueError: 
+	print('Ошибка ввода')
+```
+Если теперь попытаться ввести дату 31 февраля (31.02.2021), то при создании объекта `date` возникнет ошибка (исключение), которая будет перехвачена в блоке `except`. В результате работы программа выведет:
+
+### Читаем данные, пока не ввели корректную дату (время)
+```python
+from datetime import date, time 
+while True: 
+	try: 
+		day, month, year = input('Введите дату в формате ДД.ММ.ГГГГ').split('.') 
+		my_date = date(int(year), int(month), int(day)) 
+		print('Введена корректная дата:', my_date) 
+		break 
+	except: # перехватываем любую ошибку 
+		print('Введенная дата не является корректной, попробуйте еще раз')
+```
+### Преобразование строки в дату с помощью метода `fromisoformat()`
+Самостоятельное преобразование данных из строки в объекты типа `date` и `time` оказывается довольно неудобным. Код получается достаточно громоздким и плохо расширяемым.
+
+Для того чтобы преобразовать строку из ISO формата в объект даты (`date`) или в объект времени (`time`), можно использовать метод `fromisoformat()`.
+```python
+from datetime import date, time 
+my_date = date.fromisoformat('2020-01-31') 
+my_time = time.fromisoformat('10:20:30') 
+print(my_date) 
+print(my_time) 
+print(type(my_date)) 
+print(type(my_time))
+>>> 2020-01-31 
+>>> 10:20:30 
+>>> <class 'datetime.date'> 
+>>> <class 'datetime.time'>
+```
+Метод `fromisoformat()` полезен на практике, однако у него есть серьезное ограничение: он работает только с датой и временем, записанными в ISO формате.
 
 
