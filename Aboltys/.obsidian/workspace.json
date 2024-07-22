@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Драйверы.md",
+                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Драйверы.md",
+                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Драйверы.md",
+                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Драйверы.md"
+                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "1746ce94202494e7",
   "lastOpenFiles": [
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Поиск элементов/Поиск элементов с помощью CSS-селекторов.md",
+    "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
+    "Python/Selenium/Поиск элементов/Поиск элементов с помощью составных CSS-селекторов.md",
+    "Python/Selenium/Поиск элементов",
     "Python/Selenium/Драйверы.md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Импорты.md",
     "Python/venv/Установка.md",
     "Python/venv/Ошибки.md",
@@ -186,10 +190,7 @@
     "Python/Заметки по учебе/Декораторы/Декораторы_1.md",
     "Python/Заметки по учебе/Матрицы.md",
     "Python/Заметки по учебе/Декораторы",
-    "Python/openCV/Ссылки.md",
-    "Python/Ссылки.md",
     "Python/openCV",
-    "Python/Заметки по учебе/Функции/Необязательные и именованные аргументы.md",
     "Python/Хабр",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
@@ -202,7 +203,6 @@
     "img/Screenshot_2.png",
     "img/Screenshot_1 1.png",
     "img",
-    "Python/Заметки по учебе/Работа с текстовыми файломи",
-    "Python/Заметки по учебе/Функции"
+    "Python/Заметки по учебе/Работа с текстовыми файломи"
   ]
 }
