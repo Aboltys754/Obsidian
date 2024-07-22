@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "15f2d887676c8a54",
+    "id": "3c6d61fbb69b82aa",
     "type": "split",
     "children": [
       {
-        "id": "01cb4f90feca8e44",
+        "id": "f0011472a03b527e",
         "type": "tabs",
         "children": [
           {
-            "id": "1746ce94202494e7",
+            "id": "603785a8a09e05d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
-=======
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
->>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
+                "file": "Python/Selenium/Работа с браузером в Selenium.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f80e5d36419b3770",
+    "id": "0fd7a924af133946",
     "type": "split",
     "children": [
       {
-        "id": "3b14b90ed74fedf5",
+        "id": "c57eb9a48639a2e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b0f6ae3438caebb4",
+            "id": "71f52461b9c4479e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "4be11f78a4f20596",
+            "id": "17c42035d0a47e58",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "9cabb33e539f2e5b",
+            "id": "2b368ec534c0fef9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e74ad0f32c530c18",
+    "id": "d2455e865a3adcea",
     "type": "split",
     "children": [
       {
-        "id": "d3e178e3e67e87a2",
+        "id": "8d8e99e27ef34a7d",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc6cd42621d3f3a",
+            "id": "3ad129c8bbc25971",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
-=======
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
->>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
+                "file": "Python/Selenium/Работа с браузером в Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "9672d528cb381443",
+            "id": "3236d1eda20cc913",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
-=======
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
->>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
+                "file": "Python/Selenium/Работа с браузером в Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f46d628a01034888",
+            "id": "d7469a936f66f377",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,29 +120,16 @@
             }
           },
           {
-            "id": "161f67a228149034",
+            "id": "3a5c65ba8acccac5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md"
-=======
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
->>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
+                "file": "Python/Selenium/Работа с браузером в Selenium.md"
               }
             }
-          },
-          {
-            "id": "21d5bbc55f33e9d5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,69 +138,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1746ce94202494e7",
+  "active": "603785a8a09e05d6",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Python/Selenium/Поиск элементов/Поиск элементов с помощью CSS-селекторов.md",
-    "Python/Selenium/Поиск элементов/Поиск элементов с помощью XPath.md",
-    "Python/Selenium/Поиск элементов/Поиск элементов с помощью составных CSS-селекторов.md",
-    "Python/Selenium/Поиск элементов",
-    "Python/Selenium/Драйверы.md",
-=======
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
-    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Функции/Анонимные функции.md",
-    "Python/Заметки по учебе/Set() Множества.md",
-    "Python/Заметки по учебе/Матрицы.md",
-    "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/Заметки по учебе/типы/общее.md",
->>>>>>> 6967429e270de7392f6daf7d9f4a0ba51823d8c4
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Поиск элементов/С помощью Selenium.md",
+    "Python/Selenium/Работа с браузером в Selenium.md",
     "Python/Selenium/Импорты.md",
-    "Python/Selenium/Драйверы.md",
-    "Python/venv/Установка.md",
-    "Python/venv/Ошибки.md",
-    "Obsidian/#Синтаксис.md",
-    "VSCode/Venv/Установка Venv.md",
-    "VSCode/горячие клавиши.md",
-    "VSCode/Проблемы.md",
-    "Python/Заметки по учебе/Работа с датами и временем",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-    "Python/Заметки по учебе/Работа с файлами",
-    "Git/readme.md.md",
-    "Git/git book.md",
-    "Git/git lab/команды.md",
-    "Git/git ignore.md",
-    "Python/Celery/Celery для новичков.md",
-    "Python/Celery",
-    "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
-    "Python/Selenium",
-    "Python/Заметки по учебе/Декораторы",
-    "Python/openCV",
-    "Python/Хабр",
-    "img/13.3-48 1.png",
-    "img/13.3-48.png",
-    "img/image.png",
-    "img/13.3-48 2.png",
-    "img/Screenshot_4 1.png",
-    "img/Screenshot_4.png",
-    "img/Screenshot_3.png",
-    "img/Screenshot_2 1.png",
-    "img/Screenshot_2.png",
-    "img/Screenshot_1 1.png",
-    "img",
-    "Python/Заметки по учебе/Работа с текстовыми файломи"
+    "Python/Selenium/Поиск элементов/С помощью CSS-селекторов.md",
+    "Python/Selenium/Поиск элементов/С помощью XPath.md",
+    "Python/Selenium/Поиск элементов/С помощью составных CSS-селекторов.md"
   ]
 }
