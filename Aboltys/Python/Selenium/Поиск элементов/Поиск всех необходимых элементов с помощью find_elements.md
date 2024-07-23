@@ -3,7 +3,25 @@
 Существует метод **find_elements**, которые в отличие от **find_element** вернёт список всех найденных элементов по заданному условию. Проверив длину списка, мы можем удостовериться, что в корзине отобразилось правильное количество товаров. Пример кода (код приведен только для примера, сайта fake-shop.com скорее всего не существует):
 
 ```python
-# подготовка для теста # открываем страницу первого товара # данный сайт не существует, этот код приведен только для примера browser.get("https://fake-shop.com/book1.html") # добавляем товар в корзину add_button = browser.find_element(By.CSS_SELECTOR, ".add") add_button.click() # открываем страницу второго товара browser.get("https://fake-shop.com/book2.html") # добавляем товар в корзину add_button = browser.find_element(By.CSS_SELECTOR, ".add") add_button.click() # тестовый сценарий # открываем корзину browser.get("https://fake-shop.com/basket.html") # ищем все добавленные товары goods = browser.find_elements(By.CSS_SELECTOR, ".good") # проверяем, что количество товаров равно 2 assert len(goods) == 2
+# подготовка для теста 
+# открываем страницу первого товара 
+# данный сайт не существует, этот код приведен только для примера
+browser.get("https://fake-shop.com/book1.html") 
+# добавляем товар в корзину 
+add_button = browser.find_element(By.CSS_SELECTOR, ".add") 
+add_button.click() 
+# открываем страницу второго товара 
+browser.get("https://fake-shop.com/book2.html") 
+# добавляем товар в корзину 
+add_button = browser.find_element(By.CSS_SELECTOR, ".add") 
+add_button.click() 
+# тестовый сценарий
+# открываем корзину 
+browser.get("https://fake-shop.com/basket.html") 
+# ищем все добавленные товары 
+goods = browser.find_elements(By.CSS_SELECTOR, ".good") 
+# проверяем, что количество товаров равно 2 
+assert len(goods) == 2
 ```
 
 !Важно. Обратите внимание на важную разницу в результатах, которые возвращают методы **find_element** и **find_elements**. Если первый метод не смог найти элемент на странице, то он вызовет ошибку **NoSuchElementException**, которая прервёт выполнение вашего кода. Второй же метод всегда возвращает валидный результат: если ничего не было найдено, то он вернёт пустой список и ваша программа перейдет к выполнению следующего шага в коде.
