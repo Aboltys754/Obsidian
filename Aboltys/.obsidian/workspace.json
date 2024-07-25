@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Поиск элементов/С помощью XPath.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/Как работать с элементами типа checkbox и radiobutton.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Поиск элементов/С помощью XPath.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/Как работать с элементами типа checkbox и radiobutton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Поиск элементов/С помощью XPath.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/Как работать с элементами типа checkbox и radiobutton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Поиск элементов/С помощью XPath.md"
+                "file": "Python/Selenium/Полезные методы в Selenium/Как работать с элементами типа checkbox и radiobutton.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "603785a8a09e05d6",
   "lastOpenFiles": [
+    "Python/Selenium/Поиск элементов/С помощью XPath.md",
+    "Python/Selenium/Полезные методы в Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Python/Selenium/Полезные методы в Selenium",
     "Python/Selenium/Поиск элементов/Уникальность селекторов часть 1.md",
     "Python/Selenium/Поиск элементов/С помощью CSS-селекторов.md",
     "Python/Selenium/Поиск элементов/С помощью составных CSS-селекторов.md",
-    "Python/Selenium/Поиск элементов/С помощью XPath.md",
     "Python/Selenium/Поиск элементов/Уникальность селекторов часть 2.md",
     "Python/Selenium/Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
     "Python/Selenium/Поиск элементов/С помощью Selenium.md",
