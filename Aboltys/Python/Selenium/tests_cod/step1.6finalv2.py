@@ -3,16 +3,17 @@ from selenium.webdriver.common.by import By
 import time
 
 try: 
-    link = "http://suninjuly.github.io/registration1.html"
+    link = "http://suninjuly.github.io/registration2.html"
     browser = webdriver.Chrome()
     browser.get(link)
-
-    input1 = browser.find_element(By.XPATH, '//div[@class="first_block"] //input[@class="form-control first"]')
+    
+    input1 = browser.find_element(By.CSS_SELECTOR, ("input.form-control.first[required]"))
     input1.send_keys("Ivan")
-    input2 = browser.find_element(By.XPATH, '//div[@class="first_block"] //input[@class="form-control second"]')
+    input2 = browser.find_element(By.CSS_SELECTOR, ("input.form-control.second[required]"))
     input2.send_keys("Petrov")
-    input3 = browser.find_element(By.XPATH, '//div[@class="first_block"] //input[@class="form-control third"]')
-    input3.send_keys("email@mail.com")
+    input3 = browser.find_element(By.CSS_SELECTOR, ("input.form-control.third[required]"))
+    input3.send_keys("email@mail.ru")
+    
     # Отправляем заполненную форму
     button = browser.find_element(By.CSS_SELECTOR, "button.btn")
     button.click()

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Полезные методы в Selenium/Метод get_attribute.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c62c27a51a19b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 481.5
   },
   "right": {
     "id": "d2455e865a3adcea",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Полезные методы в Selenium/Метод get_attribute.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Полезные методы в Selenium/Метод get_attribute.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Полезные методы в Selenium/Метод get_attribute.md"
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "603785a8a09e05d6",
+  "active": "2c62c27a51a19b72",
   "lastOpenFiles": [
-    "Python/Selenium/Полезные методы в Selenium/Как работать с элементами типа checkbox и radiobutton.md",
-    "Python/Selenium/Полезные методы в Selenium/Метод get_attribute.md",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
+    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium",
     "Python/Selenium/Поиск элементов/С помощью Selenium.md",
     "Python/Selenium/Поиск элементов/С помощью CSS-селекторов.md",
     "Python/Selenium/Поиск элементов/С помощью составных CSS-селекторов.md",
