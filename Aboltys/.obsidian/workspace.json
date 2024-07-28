@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6682bb8ddf976f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
+                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md"
               }
             }
           },
@@ -156,37 +169,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1746ce94202494e7",
+  "active": "f6682bb8ddf976f9",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
     "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
-    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Функции/Анонимные функции.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
     "Python/Заметки по учебе/Set() Множества.md",
-    "Python/Заметки по учебе/Матрицы.md",
     "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/Заметки по учебе/типы/общее.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
     "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Импорты.md",
     "Python/Selenium/Драйверы.md",
+    "Git/git hub/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
+    "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+    "Git/git hub/ssh/2 ssh ключа к разным репозиториям.md",
+    "Git/git hub/ssh/проверка существующих ключей.md",
+    "Git/git hub/ssh/о ssh.md",
+    "Git/git hub.zip",
     "Python/venv/Установка.md",
     "Python/venv/Ошибки.md",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Заметки по учебе/Функции/Анонимные функции.md",
+    "Python/Заметки по учебе/Матрицы.md",
+    "Python/Заметки по учебе/типы/общее.md",
     "Obsidian/#Синтаксис.md",
     "VSCode/Venv/Установка Venv.md",
     "VSCode/горячие клавиши.md",
-    "VSCode/Проблемы.md",
     "Python/Заметки по учебе/Работа с датами и временем",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Работа с файлами",
-    "Git/readme.md.md",
-    "Git/git book.md",
-    "Git/git lab/команды.md",
-    "Git/git ignore.md",
-    "Python/Celery/Celery для новичков.md",
     "Python/Celery",
-    "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
     "Python/Selenium",
     "Python/Заметки по учебе/Декораторы",
     "Python/openCV",
@@ -202,7 +216,6 @@
     "img/Screenshot_2.png",
     "img/Screenshot_1 1.png",
     "img",
-    "Python/Заметки по учебе/Работа с текстовыми файломи",
-    "Python/Заметки по учебе/Функции"
+    "Python/Заметки по учебе/Работа с текстовыми файломи"
   ]
 }
