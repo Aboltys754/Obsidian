@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+                "file": "Git/git hub/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+                "file": "Git/git hub/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+                "file": "Git/git hub/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md"
+                "file": "Git/git hub/Команды.md"
               }
             }
           },
@@ -171,6 +171,12 @@
   },
   "active": "f6682bb8ddf976f9",
   "lastOpenFiles": [
+    "Git/git book.md",
+    "Git/git ignore.md",
+    "Git/readme.md.md",
+    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
     "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
@@ -191,22 +197,16 @@
     "Python/Selenium/tests_cod/2.1_step_5.py",
     "Python/Selenium/tests_cod/1.6_step_8.py",
     "Python/Selenium/tests_cod/1.6_step_7.py",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
     "Python/Заметки по учебе/Set() Множества.md",
     "Python/Заметки по учебе/Коллекции классификация.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
     "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Импорты.md",
     "Python/Selenium/Драйверы.md",
     "Git/git hub/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
     "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
-    "Git/git hub/ssh/2 ssh ключа к разным репозиториям.md",
-    "Git/git hub/ssh/проверка существующих ключей.md",
-    "Git/git hub/ssh/о ssh.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "img/image.png",
