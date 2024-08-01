@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1746ce94202494e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6682bb8ddf976f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git hub/Команды.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git hub/Команды.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git hub/Команды.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git hub/Команды.md"
+                "file": "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md"
               }
             }
           },
@@ -169,17 +156,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6682bb8ddf976f9",
+  "active": "b0f6ae3438caebb4",
   "lastOpenFiles": [
+    "Python/Selenium/Полезные методы в Selenium/Работа с окнами",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
+    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Метод execute_script.md",
+    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Работа с браузером в Selenium.md",
+    "Python/Selenium/Импорты.md",
+    "Python/Selenium/Драйверы.md",
+    "Git/git hub/Команды.md",
     "Git/git book.md",
     "Git/git ignore.md",
     "Git/readme.md.md",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
     "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
     "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
-    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
-    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
     "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами",
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium",
     "Python/Selenium/Полезные методы в Selenium",
@@ -199,14 +194,6 @@
     "Python/Selenium/tests_cod/1.6_step_7.py",
     "Python/Заметки по учебе/Set() Множества.md",
     "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
-    "Python/Selenium/Импорты.md",
-    "Python/Selenium/Драйверы.md",
-    "Git/git hub/ssh/Добавление нового SSH-ключа в вашу учетную запись GitHub.md",
-    "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "img/image.png",
