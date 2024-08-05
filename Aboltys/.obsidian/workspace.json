@@ -11,9 +11,11 @@
             "id": "f6682bb8ddf976f9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/image.png"
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/image.png",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/image.png",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/image.png"
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
               }
             }
           },
@@ -156,15 +158,17 @@
   },
   "active": "f6682bb8ddf976f9",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+    "img/image.png",
     "img/git.jpg",
     "img/13.3-48 2.png",
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "Git/readme.md.md",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
     "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
     "Python/Selenium/Полезные методы в Selenium/Работа с окнами",
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
@@ -195,7 +199,6 @@
     "Python/Selenium/tests_cod/2.1_step_5.py",
     "Python/Selenium/tests_cod/1.6_step_8.py",
     "Python/Заметки по учебе/Set() Множества.md",
-    "img/image.png",
     "img/Screenshot_4 1.png",
     "img/Screenshot_4.png",
     "img/Screenshot_3.png",
