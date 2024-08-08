@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Ошибки.md",
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+>>>>>>> e906a6d701ec82fd20dfcabe024bbb7f4e618e9f
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Ошибки.md",
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+>>>>>>> e906a6d701ec82fd20dfcabe024bbb7f4e618e9f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Ошибки.md",
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+>>>>>>> e906a6d701ec82fd20dfcabe024bbb7f4e618e9f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Ошибки.md"
+=======
+                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
+>>>>>>> e906a6d701ec82fd20dfcabe024bbb7f4e618e9f
               }
             }
           },
@@ -158,6 +174,7 @@
   },
   "active": "f6682bb8ddf976f9",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/Selenium Waits (Implicit Waits).md",
     "Python/Selenium/Ошибки.md",
     "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
@@ -170,6 +187,23 @@
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
     "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+=======
+    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+    "img/image.png",
+    "img/git.jpg",
+    "img/13.3-48 2.png",
+    "img/13.3-48 1.png",
+    "img/13.3-48.png",
+    "Git/readme.md.md",
+    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
+    "Python/Selenium/Полезные методы в Selenium/Работа с окнами",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+>>>>>>> e906a6d701ec82fd20dfcabe024bbb7f4e618e9f
     "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Метод execute_script.md",
     "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Работа со списками.md",
     "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
@@ -179,9 +213,6 @@
     "Git/git hub/Команды.md",
     "Git/git book.md",
     "Git/git ignore.md",
-    "Git/readme.md.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
     "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами",
     "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium",
     "Python/Selenium/Полезные методы в Selenium",
@@ -194,15 +225,19 @@
     "Python/Selenium/tests_cod/step1.6finalv1.py",
     "Python/Selenium/tests_cod/2.1_step_7.py",
     "Python/Selenium/tests_cod/2.1_step_5.py",
+<<<<<<< HEAD
     "img/13.3-48 1.png",
     "img/13.3-48.png",
     "img/image.png",
     "img/13.3-48 2.png",
+=======
+    "Python/Selenium/tests_cod/1.6_step_8.py",
+    "Python/Заметки по учебе/Set() Множества.md",
+>>>>>>> e906a6d701ec82fd20dfcabe024bbb7f4e618e9f
     "img/Screenshot_4 1.png",
     "img/Screenshot_4.png",
     "img/Screenshot_3.png",
     "img/Screenshot_2 1.png",
-    "img/Screenshot_2.png",
-    "img/Screenshot_1 1.png"
+    "img/Screenshot_2.png"
   ]
 }

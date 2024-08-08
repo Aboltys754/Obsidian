@@ -282,3 +282,12 @@ print('С модулем:', abs_delta.days, abs_delta.seconds, abs_delta, sep='\
 **Примечание 3.** Тип данных `timedelta` является неизменяемым.
 
 **Примечание 4.** Документация по модулю `datetime` доступна по [ссылке](https://docs.python.org/3/library/datetime.html).
+
+Добавить месяц к дате 
+```python
+from datetime import date, time, datetime, timedelta
+
+new_date = datetime(1, 12, 13)
+print(new_date)
+print(datetime(new_date.year + int(new_date.month / 12), ((new_date.month % 12) + 1), 13))
+```
