@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+                "file": "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
+                "file": "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md"
               }
             }
           }
@@ -149,8 +149,15 @@
   },
   "active": "0666ccc6a9af8463",
   "lastOpenFiles": [
+    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
+    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
+    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/1. Как работают методы get и find_element.md",
+    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Работа с браузером в Selenium.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
+    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
     "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md"
+    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md"
   ]
 }
