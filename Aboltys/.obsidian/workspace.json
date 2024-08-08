@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Ссылки.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/2 Юнит-тесты и интеграционные тесты.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Ссылки.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/2 Юнит-тесты и интеграционные тесты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Ссылки.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/2 Юнит-тесты и интеграционные тесты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Ссылки.md"
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/2 Юнит-тесты и интеграционные тесты.md"
               }
             }
           }
@@ -149,16 +149,20 @@
   },
   "active": "0666ccc6a9af8463",
   "lastOpenFiles": [
-    "Git/readme.md.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/1 Автоматизированное и ручное тестирование.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/2 Юнит-тесты и интеграционные тесты.md",
     "Git/Ссылки.md",
-    "Python/Selenium/Полезные методы в Selenium/Ссылки.md",
-    "Python/Selenium/Тестовые фреймворки",
-    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
-    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
-    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
-    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
-    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/1. Как работают методы get и find_element.md",
-    "Python/Selenium/Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
+    "Python/Selenium/3. Тестовые фреймворки/3.2 Автоматизированное и ручное тестирование/ез названия.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки",
+    "Git/readme.md.md",
+    "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
+    "Python/Selenium/3. Тестовые фреймворки",
+    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/1. Как работают методы get и find_element.md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
     "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Работа с браузером в Selenium.md",
     "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
