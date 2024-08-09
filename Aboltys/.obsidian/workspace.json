@@ -1,39 +1,64 @@
 {
   "main": {
-    "id": "3946257e3e5cf586",
+    "id": "1f76765682402ed3",
     "type": "split",
     "children": [
       {
-        "id": "bf2c091bf8abc845",
+        "id": "d1669a0d965aebbe",
         "type": "tabs",
         "children": [
           {
-            "id": "0666ccc6a9af8463",
+            "id": "9f8724e737bef73a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53ccb2fc1d5b04f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5722fbd4a9fb4e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "03b7cb4e2348c148",
+    "id": "e9dd371f199c947d",
     "type": "split",
     "children": [
       {
-        "id": "019fa39ad4e8d614",
+        "id": "086167ed03040282",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c5db939b33c5d6",
+            "id": "ae2108b4edb8d2b6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +68,7 @@
             }
           },
           {
-            "id": "a18cae6cfc799cc2",
+            "id": "7b1d0f8761241b8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +83,7 @@
             }
           },
           {
-            "id": "8f9adb0351e20918",
+            "id": "a8bcfa6108b23c1f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "b707b0f537e3d859",
+    "id": "cb9334fef0796268",
     "type": "split",
     "children": [
       {
-        "id": "e752af76cf1d89d3",
+        "id": "7e0136ce37a36b5a",
         "type": "tabs",
         "children": [
           {
-            "id": "20f11d8ba5f88fee",
+            "id": "33f7447d93d53d5a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +122,19 @@
             }
           },
           {
-            "id": "ab359e15c5082954",
+            "id": "c148122184a97705",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md",
+                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4540b1d3128efe2e",
+            "id": "29131012775b50f1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +145,12 @@
             }
           },
           {
-            "id": "b98e49b9652ef48e",
+            "id": "8e6753a391d166f1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md"
+                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md"
               }
             }
           }
@@ -147,74 +172,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0666ccc6a9af8463",
+  "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с датами и временем/time/4. Тип данных struct_time.md",
+    "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
+    "Python/Заметки по учебе/Работа с датами и временем/calendar",
+    "Python/Заметки по учебе/Работа с датами и временем/time/3. Функция calculate_it.md",
+    "Python/Заметки по учебе/Работа с датами и временем/time/2. Измерение времени выполнения программы.md",
+    "Python/Заметки по учебе/Работа с датами и временем/time/1. Модуль time.md",
     "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
-    "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "img/image.png",
-    "img/git.jpg",
-    "img/13.3-48 2.png",
-    "img/13.3-48 1.png",
-    "img/13.3-48.png",
-=======
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/5. Составные сообщения об ошибках.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/4. Проверка ожидаемого результата.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/3. Структура теста.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/1. Автоматизированное и ручное тестирование.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/2. Юнит-тесты и интеграционные тесты.md",
-    "Git/Ссылки.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Автоматизированное и ручное тестирование/ез названия.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки",
->>>>>>> 031e95e0baf9a3293f9d0e416c46be0a0c76c76a
-    "Git/readme.md.md",
-    "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
-    "Python/Selenium/3. Тестовые фреймворки",
-    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/1. Как работают методы get и find_element.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
-    "Python/Selenium/Работа с браузером в Selenium.md",
-<<<<<<< HEAD
-    "Python/Selenium/Импорты.md",
-    "Python/Selenium/Драйверы.md",
-    "Git/git hub/Команды.md",
-    "Git/git book.md",
-    "Git/git ignore.md",
-    "Python/Selenium/Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами",
-    "Python/Selenium/Полезные методы в Selenium/2.1 Основные методы Selenium",
-    "Python/Selenium/Полезные методы в Selenium",
-    "Python/Selenium/Поиск элементов/Уникальность селекторов часть 2.md",
-    "Python/Selenium/Поиск элементов/Уникальность селекторов часть 1.md",
-    "Python/Selenium/Поиск элементов/С помощью составных CSS-селекторов.md",
-    "Python/Selenium/Поиск элементов/С помощью XPath.md",
-    "Python/Selenium/Поиск элементов/С помощью Selenium.md",
-    "Python/Selenium/Поиск элементов/С помощью CSS-селекторов.md",
-    "Python/Selenium/Поиск элементов",
-    "Python/Selenium/tests_cod/step1.6finalv2.py",
-    "Python/Selenium/tests_cod/step1.6finalv1.py",
-    "Python/Selenium/tests_cod/2.1_step_7.py",
-    "Python/Selenium/tests_cod/2.1_step_5.py",
-    "Python/Selenium/tests_cod/1.6_step_8.py",
-    "img/Screenshot_4 1.png",
-    "img/Screenshot_4.png",
-    "img/Screenshot_3.png",
-    "img/Screenshot_2 1.png",
-    "img/Screenshot_2.png"
-=======
-    "Python/Заметки по учебе/Работа с датами и временем/Тип данных timedelta.md",
-    "Python/Заметки по учебе/Работа с датами и временем/тип данных datetime.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 2 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/Типы данных date и time 1 часть.md"
->>>>>>> 031e95e0baf9a3293f9d0e416c46be0a0c76c76a
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с датами и временем/time",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime",
+    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md"
   ]
 }
