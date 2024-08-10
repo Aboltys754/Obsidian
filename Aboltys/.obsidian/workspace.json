@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ccb2fc1d5b04f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
+                "file": "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
+                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
+                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
+                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md"
+                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md"
               }
             }
           }
@@ -174,7 +162,17 @@
   },
   "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Заметки по учебе/Функции/Функции как объекты.md",
+    "Python/Заметки по учебе/Функции/Функции с переменным количеством аргументов.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
     "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
+    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с датами и временем/Материал для самостоятельного изучения.md",
+    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
     "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
     "Python/Заметки по учебе/Работа с датами и временем/time/4. Тип данных struct_time.md",
     "Python/Заметки по учебе/Работа с датами и временем/calendar",
@@ -183,10 +181,7 @@
     "Python/Заметки по учебе/Работа с датами и временем/time/1. Модуль time.md",
     "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
     "Python/Заметки по учебе/Работа с датами и временем/time",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime",
     "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md"
   ]
