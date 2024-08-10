@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md"
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Работа с датами и временем/time/4. Тип данных struct_time.md",
     "Python/Заметки по учебе/Работа с датами и временем/calendar/Модуль calendar.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
+    "Python/Заметки по учебе/Работа с датами и временем/time/4. Тип данных struct_time.md",
     "Python/Заметки по учебе/Работа с датами и временем/calendar",
     "Python/Заметки по учебе/Работа с датами и временем/time/3. Функция calculate_it.md",
     "Python/Заметки по учебе/Работа с датами и временем/time/2. Измерение времени выполнения программы.md",
