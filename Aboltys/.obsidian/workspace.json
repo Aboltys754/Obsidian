@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md"
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md"
               }
             }
           }
@@ -162,6 +162,13 @@
   },
   "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
+    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
+    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
+    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
+    "Python/venv/Установка.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/1. PyTest — преимущества и недостатки.md",
+    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest",
     "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
     "Python/Заметки по учебе/Функции/Функции как объекты.md",
     "Python/Заметки по учебе/Функции/Функции с переменным количеством аргументов.md",
