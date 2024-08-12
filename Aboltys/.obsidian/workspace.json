@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md"
+                "file": "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md"
               }
             }
           }
@@ -162,11 +162,22 @@
   },
   "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
+    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Область видимости scope.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Финализаторы — закрываем браузер.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Фикстуры, возвращающие значение.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Классические фикстуры (fixtures).md",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/PyTest — проверка ожидаемого результата (assert).md",
+    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/PyTest — отчёты.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/1. PyTest — преимущества и недостатки.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/PyTest. правила запуска тестов.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/requirements.txt.md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
     "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
     "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
     "Python/venv/Установка.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest/1. PyTest — преимущества и недостатки.md",
     "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest",
     "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
@@ -180,16 +191,8 @@
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 2 часть.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/7. unittest.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/4. Тип данных struct_time.md",
     "Python/Заметки по учебе/Работа с датами и временем/calendar",
-    "Python/Заметки по учебе/Работа с датами и временем/time/3. Функция calculate_it.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/2. Измерение времени выполнения программы.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/1. Модуль time.md",
-    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Работа с датами и временем/time",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/6. Тестовые сценарии.md"
+    "Python/Заметки по учебе/Работа с датами и временем/datetime"
   ]
 }
