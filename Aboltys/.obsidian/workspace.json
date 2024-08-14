@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md"
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
+    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
     "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами",
     "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
