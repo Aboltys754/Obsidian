@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md"
+                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md"
               }
             }
           }
@@ -160,8 +160,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ae2108b4edb8d2b6",
+  "active": "5722fbd4a9fb4e1e",
   "lastOpenFiles": [
+    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 1.md",
+    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
+    "Python/Selenium/1. Поиск элементов/С помощью XPath.md",
+    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
+    "Python/Selenium/1. Поиск элементов/С помощью CSS-селекторов.md",
+    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
+    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
+    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
+    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
@@ -175,22 +187,10 @@
     "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами",
     "Python/Заметки по учебе/Функции/Анонимные функции.md",
     "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Заметки по учебе/Функции/Необязательные и именованные аргументы.md",
     "Python/Заметки по учебе/Функции/Парадигмы программирования.md",
-    "Python/Заметки по учебе/Функции/функции высшего порядка.md",
-    "Python/Заметки по учебе/Функции/Функции как объекты.md",
-    "Python/Заметки по учебе/Функции/Функции с переменным количеством аргументов.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.5 PyTest — маркировка/Пропуск тестов.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.5 PyTest — маркировка/XFail - помечать тест как ожидаемо падающий.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.5 PyTest — маркировка/Маркировка тестов 2.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.5 PyTest — маркировка/Маркировка тестов 1.md",
     "Python/Selenium/3. Тестовые фреймворки/3.5 PyTest — маркировка/Без названия",
-    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Классические фикстуры (fixtures).md",
-    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Область видимости scope.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Фикстуры, возвращающие значение.md",
     "Python/Selenium/3. Тестовые фреймворки/3.5 PyTest — маркировка",
     "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest",
     "Python/Selenium/3. Тестовые фреймворки/3.3 PyTest",
