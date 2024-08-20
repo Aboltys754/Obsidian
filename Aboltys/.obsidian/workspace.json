@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git_stepik/1. Git/Тегирование.md",
+                "file": "Git/readme.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git_stepik/1. Git/Тегирование.md",
+                "file": "Git/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git_stepik/1. Git/Тегирование.md",
+                "file": "Git/readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git_stepik/1. Git/Тегирование.md"
+                "file": "Git/readme.md.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
     "Git/git_stepik/1. Git/Команды Git.md",
-    "Git/git_stepik/1. Git/Тегирование.md",
     "Git/git_stepik/1. Git/Репозиторий Git.md",
     "Git/git_stepik/1. Git/Типы объектов Git.md",
+    "Git/git_stepik/1. Git/Тегирование.md",
     "Git/git_stepik/Команды.md",
     "Git/git_stepik/1. Git",
     "Git/readme.md.md",
