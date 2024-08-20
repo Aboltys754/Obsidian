@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
+                "file": "Git/git_stepik/1. Git/Тегирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
+                "file": "Git/git_stepik/1. Git/Тегирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
+                "file": "Git/git_stepik/1. Git/Тегирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/1. Поиск элементов/С помощью Selenium.md"
+                "file": "Git/git_stepik/1. Git/Тегирование.md"
               }
             }
           }
@@ -149,10 +149,21 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Git/git_stepik/1. Git/Команды Git.md",
+    "Git/git_stepik/1. Git/Тегирование.md",
+    "Git/git_stepik/1. Git/Репозиторий Git.md",
+    "Git/git_stepik/1. Git/Типы объектов Git.md",
+    "Git/git_stepik/Команды.md",
+    "Git/git_stepik/1. Git",
+    "Git/readme.md.md",
+    "Git/git_stepik",
+    "Git/git ignore.md",
+    "Git/git book.md",
+    "Git/Ссылки.md",
+    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
     "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
     "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
     "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
-    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 1.md",
-    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md"
+    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 1.md"
   ]
 }
