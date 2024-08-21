@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/readme.md.md"
+                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md"
               }
             }
           }
@@ -149,14 +149,25 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
-    "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
-    "Git/git_stepik/1. Git/Команды Git.md",
-    "Git/git_stepik/1. Git/Репозиторий Git.md",
-    "Git/git_stepik/1. Git/Типы объектов Git.md",
-    "Git/git_stepik/1. Git/Тегирование.md",
+    "Git/git_stepik/2. GitHub/Git и GitHub.md",
+    "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
     "Git/git_stepik/Команды.md",
-    "Git/git_stepik/1. Git",
+    "Git/git_stepik/1. Git/Пример разрешения конфликтов слияния Git.md",
+    "Git/git_stepik/2. GitHub",
     "Git/readme.md.md",
+    "Git/git_stepik/1. Git/Команды Git.md",
+    "Git/git_stepik/1. Git/Работа с удаленными репозиториями.md",
+    "Git/git_stepik/1. Git/Конфликты слияния в Git.md",
+    "Git/git_stepik/1. Git/Репозиторий Git.md",
+    "Git/git_stepik/1. Git/Слияние в Git.md",
+    "Git/git_stepik/1. Git/Тегирование.md",
+    "Git/git_stepik/1. Git/Типы объектов Git.md",
+    "Python/Заметки по учебе/Set() Множества.md",
+    "Python/Заметки по учебе/Матрицы.md",
+    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Git/git_stepik/1. Git/Ветвление в Git.md",
+    "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
+    "Git/git_stepik/1. Git",
     "Git/git_stepik",
     "Git/git ignore.md",
     "Git/git book.md",
