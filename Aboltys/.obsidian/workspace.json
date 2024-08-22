@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
+                "file": "Git/git_stepik/Альтернативы/Bitbucket.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
+                "file": "Git/git_stepik/Альтернативы/Bitbucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
+                "file": "Git/git_stepik/Альтернативы/Bitbucket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md"
+                "file": "Git/git_stepik/Альтернативы/Bitbucket.md"
               }
             }
           }
@@ -149,9 +149,25 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
-    "Git/git_stepik/2. GitHub/Git и GitHub.md",
-    "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
+    "Git/git_stepik/Альтернативы/Создание локального репозитория git.md",
+    "Git/git_stepik/Альтернативы/Bitbucket.md",
+    "Git/git_stepik/Альтернативы/Rhodecode.md",
+    "Git/git_stepik/Альтернативы/Gogs.md",
+    "Git/git_stepik/Альтернативы/GitFlic.md",
+    "Git/git_stepik/3. GitLab/добавить пользователей в ваш проект в GitLab.md",
+    "Git/git_stepik/Альтернативы",
+    "Git/git_stepik/3. GitLab/Merge Requests.md",
+    "Git/git_stepik/3. GitLab/Создание первого проекта в GitLab.md",
+    "Git/git_stepik/3. GitLab/Личный профиль и создание первого проекта.md",
+    "Git/git_stepik/3. GitLab/GitLab и как им пользоваться.md",
+    "Git/git_stepik/2. GitHub/Работа в команде с помощью GitHub.md",
+    "Git/git_stepik/3. GitLab",
     "Git/git_stepik/Команды.md",
+    "Git/git_stepik/2. GitHub/Как интегрировать GitHub и Git.md",
+    "Git/git_stepik/2. GitHub/Клонирование репозитория.md",
+    "Git/git_stepik/2. GitHub/Git Pull.md",
+    "Git/git_stepik/2. GitHub/Ветвление с использованием GitHub.md",
+    "Git/git_stepik/2. GitHub/Git и GitHub.md",
     "Git/git_stepik/1. Git/Пример разрешения конфликтов слияния Git.md",
     "Git/git_stepik/2. GitHub",
     "Git/readme.md.md",
@@ -162,20 +178,7 @@
     "Git/git_stepik/1. Git/Слияние в Git.md",
     "Git/git_stepik/1. Git/Тегирование.md",
     "Git/git_stepik/1. Git/Типы объектов Git.md",
-    "Python/Заметки по учебе/Set() Множества.md",
-    "Python/Заметки по учебе/Матрицы.md",
-    "Python/Заметки по учебе/Коллекции классификация.md",
-    "Git/git_stepik/1. Git/Ветвление в Git.md",
-    "Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
     "Git/git_stepik/1. Git",
-    "Git/git_stepik",
-    "Git/git ignore.md",
-    "Git/git book.md",
-    "Git/Ссылки.md",
-    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
-    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
-    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
-    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
-    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 1.md"
+    "Git/git_stepik"
   ]
 }
