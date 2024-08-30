@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
-                "mode": "source",
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md"
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md"
               }
             }
           }
@@ -149,6 +149,17 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Python/Selenium/Драйверы.md",
+    "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
+    "Python/Selenium/1. Поиск элементов/С помощью XPath.md",
+    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
+    "Python/Selenium/1. Поиск элементов/С помощью CSS-селекторов.md",
+    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
+    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Работа с браузером в Selenium.md",
+    "Python/Selenium/Импорты.md",
+    "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
     "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/1. Conftest.py — конфигурация тестов.md",
     "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/1. Автоматизированное и ручное тестирование.md",
     "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
@@ -158,23 +169,12 @@
     "Python/Selenium/2. Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Метод execute_script.md",
     "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
     "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 1.md",
-    "Python/Selenium/1. Поиск элементов/С помощью XPath.md",
     "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
     "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
     "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
     "Python/Selenium/2. Полезные методы в Selenium/2.3 Работа с окнами/Alerts и как с ними жить.md",
-    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
-    "Python/Selenium/1. Поиск элементов/С помощью CSS-селекторов.md",
-    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
-    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
     "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Классические фикстуры (fixtures).md",
     "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
-    "Git/git_stepik/Альтернативы/Bitbucket.md",
-    "Git/git_stepik/Альтернативы/Создание локального репозитория git.md",
-    "Git/git_stepik/Альтернативы/Rhodecode.md",
-    "Git/git_stepik/Альтернативы/Gogs.md",
-    "Git/git_stepik/Альтернативы/GitFlic.md",
     "Git/git_stepik/Альтернативы",
     "Git/git_stepik/3. GitLab",
     "Git/git_stepik/2. GitHub",
