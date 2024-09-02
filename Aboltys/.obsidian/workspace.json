@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/venv/Установка.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/venv/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/venv/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md"
+                "file": "Python/venv/Установка.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Драйверы.md",
     "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
     "Python/Selenium/1. Поиск элементов/С помощью XPath.md",
@@ -156,7 +157,6 @@
     "Python/Selenium/1. Поиск элементов/С помощью CSS-селекторов.md",
     "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
     "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
     "Python/Selenium/Работа с браузером в Selenium.md",
     "Python/Selenium/Импорты.md",
     "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
