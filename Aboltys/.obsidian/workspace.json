@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Ссылки.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Ссылки.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Ссылки.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Ссылки.md"
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md"
               }
             }
           }
@@ -149,6 +149,17 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+    "Python/Заметки по учебе/Работа с файлами/работа с json/Часть 2.md",
+    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/CSV.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+    "Python/Ссылки.md",
+    "Python/Заметки по учебе/Работа с файлами/JSON",
     "Python/Хабр.md",
     "Python/libss.md",
     "Python/libs/pyinstaller.md",
@@ -156,9 +167,7 @@
     "Python/Без названия",
     "Python/venv/Установка.md",
     "Python/venv/Ошибки.md",
-    "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
     "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
     "Git/git_stepik/3. GitLab/Merge Requests.md",
     "Git/git_stepik/3. GitLab/GitLab и как им пользоваться.md",
     "Git/git_stepik/3. GitLab/Создание первого проекта в GitLab.md",
@@ -168,14 +177,6 @@
     "Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
     "Python/SQLAlchemy/Получение строк CORE и ORM.md",
     "Python/SQLAlchemy/Установка.md",
-    "Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
-    "Git/git_stepik/1. Git/Команды Git.md",
-    "Git/git_stepik/1. Git/Ветвление в Git.md",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
-    "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Git/git_stepik/Альтернативы",
     "Git/git_stepik/3. GitLab",
     "Git/git_stepik/2. GitHub",

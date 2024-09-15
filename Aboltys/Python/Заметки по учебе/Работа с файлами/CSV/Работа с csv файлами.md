@@ -1,3 +1,6 @@
+
+https://ru.wikipedia.org/wiki/CSV
+
 1. Форматы данных `csv, tsv, dsv`
 2. Модуль `csv`
 
