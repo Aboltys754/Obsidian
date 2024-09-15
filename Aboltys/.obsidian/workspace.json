@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Самописные библиотеки/mail.md",
-                "mode": "source",
+                "file": "Python/Ссылки.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Самописные библиотеки/mail.md",
+                "file": "Python/Ссылки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Самописные библиотеки/mail.md",
+                "file": "Python/Ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Самописные библиотеки/mail.md"
+                "file": "Python/Ссылки.md"
               }
             }
           }
@@ -149,32 +149,33 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Python/Хабр.md",
+    "Python/libss.md",
+    "Python/libs/pyinstaller.md",
+    "Python/libs/nuitka.md",
+    "Python/Без названия",
+    "Python/venv/Установка.md",
+    "Python/venv/Ошибки.md",
+    "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+    "Git/git_stepik/3. GitLab/Merge Requests.md",
+    "Git/git_stepik/3. GitLab/GitLab и как им пользоваться.md",
+    "Git/git_stepik/3. GitLab/Создание первого проекта в GitLab.md",
+    "Git/git_stepik/3. GitLab/Личный профиль и создание первого проекта.md",
+    "Git/git_stepik/3. GitLab/добавить пользователей в ваш проект в GitLab.md",
+    "Python/Самописные библиотеки/mail.md",
     "Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
     "Python/SQLAlchemy/Получение строк CORE и ORM.md",
     "Python/SQLAlchemy/Установка.md",
     "Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
-    "Python/venv/Установка.md",
-    "Python/venv/Ошибки.md",
     "Git/git_stepik/1. Git/Команды Git.md",
     "Git/git_stepik/1. Git/Ветвление в Git.md",
-    "Python/Заметки по учебе/Работа с файлами/2. Работа с csv файлами/Работа с csv файлами.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/CSV.md",
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
-    "Python/Selenium/Драйверы.md",
-    "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
-    "Python/Selenium/1. Поиск элементов/С помощью XPath.md",
-    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
-    "Python/Selenium/1. Поиск элементов/С помощью CSS-селекторов.md",
-    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
-    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
-    "Python/Selenium/Работа с браузером в Selenium.md",
-    "Python/Selenium/Импорты.md",
     "Git/git_stepik/Альтернативы",
     "Git/git_stepik/3. GitLab",
     "Git/git_stepik/2. GitHub",
