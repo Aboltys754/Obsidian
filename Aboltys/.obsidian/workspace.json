@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md"
+                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Python/Selenium/Драйверы.md",
     "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
     "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
@@ -175,6 +176,36 @@
     "Python/Selenium/2. Полезные методы в Selenium/2.3 Работа с окнами/Alerts и как с ними жить.md",
     "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Классические фикстуры (fixtures).md",
     "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
+=======
+    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+    "Python/Заметки по учебе/Работа с файлами/работа с json/Часть 2.md",
+    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/CSV.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+    "Python/Ссылки.md",
+    "Python/Заметки по учебе/Работа с файлами/JSON",
+    "Python/Хабр.md",
+    "Python/libss.md",
+    "Python/libs/pyinstaller.md",
+    "Python/libs/nuitka.md",
+    "Python/Без названия",
+    "Python/venv/Установка.md",
+    "Python/venv/Ошибки.md",
+    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Git/git_stepik/3. GitLab/Merge Requests.md",
+    "Git/git_stepik/3. GitLab/GitLab и как им пользоваться.md",
+    "Git/git_stepik/3. GitLab/Создание первого проекта в GitLab.md",
+    "Git/git_stepik/3. GitLab/Личный профиль и создание первого проекта.md",
+    "Git/git_stepik/3. GitLab/добавить пользователей в ваш проект в GitLab.md",
+    "Python/Самописные библиотеки/mail.md",
+    "Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
+    "Python/SQLAlchemy/Получение строк CORE и ORM.md",
+    "Python/SQLAlchemy/Установка.md",
+>>>>>>> a34298a6641ca0d2812aaf953a19e66893454398
     "Git/git_stepik/Альтернативы",
     "Git/git_stepik/3. GitLab",
     "Git/git_stepik/2. GitHub",
