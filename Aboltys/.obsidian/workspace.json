@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "2461c06c91a06deb",
+    "id": "1cd4387d21eca825",
     "type": "split",
     "children": [
       {
-        "id": "ed22912d47d44354",
+        "id": "d274445fb4fad6d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b9fc0902d191f6e3",
+            "id": "48b0d5863c02e74d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "376fb76bc3eaef30",
+    "id": "79fe05a03972855a",
     "type": "split",
     "children": [
       {
-        "id": "bbf71e15a6d320d8",
+        "id": "35a06581539aff0b",
         "type": "tabs",
         "children": [
           {
-            "id": "35134ac1756c8b57",
+            "id": "c62917cb623a7257",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "9bbcd7c300fd30c1",
+            "id": "cde65240e03a1c05",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "1255c67f6fed4865",
+            "id": "25476c4b283726c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "f14c34a62f70a4ec",
+    "id": "e98f1c25f3bdec92",
     "type": "split",
     "children": [
       {
-        "id": "ef813d1b3b1a96d7",
+        "id": "9c1cfbe7b7da5e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "afcedc70c0d17a0a",
+            "id": "350bf3d597aadb1f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "7c2d743c3397aa42",
+            "id": "d2b65f7740092d8a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "bbad7f1f2d7086b5",
+            "id": "991aa649da1e0132",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "e152b6d51d544ad8",
+            "id": "0d736f0eaeb9f31a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -147,78 +147,8 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b9fc0902d191f6e3",
+  "active": "48b0d5863c02e74d",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
-    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-=======
-<<<<<<< HEAD
-    "Python/Selenium/Драйверы.md",
-    "Python/Selenium/2. Полезные методы в Selenium/Ссылки.md",
-    "Python/Selenium/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
-    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
-    "Python/Selenium/1. Поиск элементов/С помощью XPath.md",
-    "Python/Selenium/1. Поиск элементов/С помощью Selenium.md",
-    "Python/Selenium/1. Поиск элементов/С помощью CSS-селекторов.md",
-    "Python/Selenium/1. Поиск элементов/С помощью составных CSS-селекторов.md",
-    "Python/Selenium/Работа с браузером в Selenium.md",
-    "Python/Selenium/Импорты.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/2. Параметризация тестов.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.6 параметризация, конфигурирование, плагины/1. Conftest.py — конфигурация тестов.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.2 Тестирование web-приложений и тестовые фреймворки/1. Автоматизированное и ручное тестирование.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/2. Давайте быстрее это починим time.sleep().md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/1. Как работают методы get и find_element.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.3 Работа с окнами/Переход на новую вкладку браузера.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Загрузка файлов.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.2 Работа с файлами, списками и js-скриптами/Метод execute_script.md",
-    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 2.md",
-    "Python/Selenium/1. Поиск элементов/Уникальность селекторов часть 1.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/4. Explicit Waits (WebDriverWait и expected_conditions).md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.4 Настройка ожиданий/3. Selenium Waits (Implicit Waits).md",
-    "Python/Selenium/2. Полезные методы в Selenium/2.3 Работа с окнами/Alerts и как с ними жить.md",
-    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Классические фикстуры (fixtures).md",
-    "Python/Selenium/3. Тестовые фреймворки/3.4 Использование фикстур в PyTest/Автоиспользование фикстур.md",
-=======
->>>>>>> c344c4c69ce9529f591ed64113e74322fc6c05df
-    "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
-    "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
-    "Python/Заметки по учебе/Работа с файлами/работа с json/Часть 2.md",
-    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/CSV.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
-    "Python/Ссылки.md",
-    "Python/Заметки по учебе/Работа с файлами/JSON",
-    "Python/Хабр.md",
-    "Python/libss.md",
-    "Python/libs/pyinstaller.md",
-    "Python/libs/nuitka.md",
-    "Python/Без названия",
-    "Python/venv/Установка.md",
-    "Python/venv/Ошибки.md",
-    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Git/git_stepik/3. GitLab/Merge Requests.md",
-    "Git/git_stepik/3. GitLab/GitLab и как им пользоваться.md",
-    "Git/git_stepik/3. GitLab/Создание первого проекта в GitLab.md",
-    "Git/git_stepik/3. GitLab/Личный профиль и создание первого проекта.md",
-    "Git/git_stepik/3. GitLab/добавить пользователей в ваш проект в GitLab.md",
-    "Python/Самописные библиотеки/mail.md",
-<<<<<<< HEAD
-=======
-    "Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
-    "Python/SQLAlchemy/Получение строк CORE и ORM.md",
-    "Python/SQLAlchemy/Установка.md",
->>>>>>> a34298a6641ca0d2812aaf953a19e66893454398
->>>>>>> c344c4c69ce9529f591ed64113e74322fc6c05df
-    "Git/git_stepik/Альтернативы",
-    "Git/git_stepik/3. GitLab",
-    "Git/git_stepik/2. GitHub",
-    "Git/git_stepik/1. Git",
-    "Git/git_stepik"
+    "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md"
   ]
 }
