@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+                "file": "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md"
+                "file": "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "48b0d5863c02e74d",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+    "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md",
+    "Pasted image 20240922112243.png",
+    "Pasted image 20240922112236.png",
+    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с файлами/Zip",
+    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md"
   ]
 }
