@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/dict словарь/Методы dict.md"
+                "file": "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "b9fc0902d191f6e3",
   "lastOpenFiles": [
+    "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
+    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/Работа с файлами/1. потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
     "Python/Заметки по учебе/Работа с файлами/работа с json/Часть 2.md",
@@ -174,9 +177,6 @@
     "Git/git_stepik/3. GitLab/Личный профиль и создание первого проекта.md",
     "Git/git_stepik/3. GitLab/добавить пользователей в ваш проект в GitLab.md",
     "Python/Самописные библиотеки/mail.md",
-    "Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
-    "Python/SQLAlchemy/Получение строк CORE и ORM.md",
-    "Python/SQLAlchemy/Установка.md",
     "Git/git_stepik/Альтернативы",
     "Git/git_stepik/3. GitLab",
     "Git/git_stepik/2. GitHub",
