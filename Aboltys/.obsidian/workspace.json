@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "db3549ebd974ff15",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "3ca698d6a173afad",
+=======
+    "id": "1cd4387d21eca825",
+    "type": "split",
+    "children": [
+      {
+        "id": "d274445fb4fad6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b0d5863c02e74d",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+=======
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
                 "mode": "preview",
                 "source": false
               }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "cbfe84e1387a084e",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "1aa28c3607b49bd2",
+=======
+    "id": "79fe05a03972855a",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a06581539aff0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62917cb623a7257",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "c33dad9198c02237",
+=======
+            "id": "cde65240e03a1c05",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "92dca5ca98ff9ae3",
+=======
+            "id": "25476c4b283726c2",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +108,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "787d03fc0e496585",
     "type": "split",
     "children": [
@@ -81,11 +118,26 @@
         "children": [
           {
             "id": "cded2f4129f7d983",
+=======
+    "id": "e98f1c25f3bdec92",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1cfbe7b7da5e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350bf3d597aadb1f",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+=======
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +149,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "644fc20a22e6482c",
+=======
+            "id": "d2b65f7740092d8a",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+=======
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "b7be489e2a8dbdb4",
+=======
+            "id": "991aa649da1e0132",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +184,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "a0123a07aa9fce78",
+=======
+            "id": "0d736f0eaeb9f31a",
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md"
+=======
+                "file": "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md"
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
               }
             }
           }
@@ -147,6 +219,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
+<<<<<<< HEAD
   "active": "3ca698d6a173afad",
   "lastOpenFiles": [
     "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
@@ -161,5 +234,28 @@
     "Python/Заметки по учебе/Работа с датами и временем/time/1. Модуль time.md",
     "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
     "Python/Заметки по учебе/Set() Множества.md"
+=======
+  "active": "48b0d5863c02e74d",
+  "lastOpenFiles": [
+    "Python/Selenium/Драйверы.md",
+    "Python/Selenium/Импорты.md",
+    "Python/Selenium/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Python/Selenium/Работа с браузером в Selenium.md",
+    "Python/Selenium/Ошибки.md",
+    "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md",
+    "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Pasted image 20240922112243.png",
+    "Pasted image 20240922112236.png",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с файлами/Zip",
+    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+    "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md"
+>>>>>>> ff4f64720bf8da9aeaadf8f59e3a55a85522f409
   ]
 }
