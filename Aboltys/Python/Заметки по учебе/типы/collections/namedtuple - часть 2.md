@@ -186,3 +186,19 @@ Person(name='Тимур', age=30, height=170, country='Germany')
 ```
 
 Обратите внимание на то, что метод `_replace()` не изменяет текущий именованный кортеж, а возвращает новый.
+
+
+
+
+```python
+import csv
+from collections import namedtuple
+from datetime import datetime  
+
+with open('meetings.csv', encoding='u8') as fi:
+    rows = csv.DictReader(fi) # Открываем csv файл
+    Friend = namedtuple('Friend', rows.fieldnames) # Создаем кортеж передавая ключи из                                                       csv файла
+    meetings = [Friend(**row) for row in rows]   # Создаем список передавая значения                                                       словоря
+
+print(meetings)
+```

@@ -151,8 +151,15 @@
   "lastOpenFiles": [
     "Python/Заметки по учебе/типы/collections/namedtuple - именованные кортежи.md",
     "Python/Заметки по учебе/типы/collections/namedtuple - часть 2.md",
-    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 2 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
+    "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
+    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
+    "Python/Заметки по учебе/Функции/Анонимные функции.md",
     "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
+    "Python/Заметки по учебе/Работа с файлами/Pickle/Работа с модулем pickle.md",
+    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
     "Python/Заметки по учебе/типы/collections/общее.md",
     "Python/Заметки по учебе/типы/str строка/Методы строки.md",
     "Python/Заметки по учебе/типы/collections",
@@ -171,13 +178,6 @@
     "Python/Заметки по учебе/устройство памяти в Python/устройство памяти в Python.md",
     "Python/Заметки по учебе/устройство памяти в Python",
     "Python/libs/shutil.md",
-    "Python/libs/OS.md",
-    "Python/libs/psutil.md",
-    "Python/libs/csv.md",
-    "Python/libss.md",
-    "Python/Заметки по учебе/Работа с файлами/Pickle/Работа с модулем pickle.md",
-    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
-    "Python/Заметки по учебе/Работа с файлами/Zip/работа с zip файлами.md",
     "Python/Заметки по учебе/Работа с файлами/Pickle"
   ]
 }
