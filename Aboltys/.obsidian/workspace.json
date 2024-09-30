@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/defaultdict/defauldict.md",
+                "file": "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/defaultdict/defauldict.md",
+                "file": "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/defaultdict/defauldict.md",
+                "file": "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/defaultdict/defauldict.md"
+                "file": "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md"
               }
             }
           }
@@ -149,14 +149,16 @@
   },
   "active": "64e1e1826a2f5e2c",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/Заметки по учебе/типы/collections/defaultdict/defauldict.md",
     "Python/Заметки по учебе/типы/collections/общее.md",
-    "Python/Заметки по учебе/типы/collections/namedtuple/namedtuple - именованные кортежи.md",
-    "Python/Заметки по учебе/типы/collections/defaultdict",
-    "Python/Заметки по учебе/типы/collections/namedtuple/Сравнение именованных кортежей и словарей.md",
-    "Python/Заметки по учебе/типы/collections/namedtuple/namedtuple - часть 2.md",
-    "Python/Заметки по учебе/типы/collections/namedtuple",
+    "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
+    "Python/Заметки по учебе/типы/collections/DefaultDict/defauldict.md",
+    "Python/Заметки по учебе/типы/collections/OrderedDict",
+    "Python/Заметки по учебе/Коллекции классификация.md",
+    "Python/Заметки по учебе/типы/collections/NamedTuple/namedtuple - именованные кортежи.md",
+    "Python/Заметки по учебе/типы/collections/DefaultDict",
+    "Python/Заметки по учебе/типы/collections/NamedTuple/Сравнение именованных кортежей и словарей.md",
+    "Python/Заметки по учебе/типы/collections/NamedTuple/namedtuple - часть 2.md",
+    "Python/Заметки по учебе/типы/collections/NamedTuple",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 2 часть.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
@@ -177,7 +179,6 @@
     "Python/Заметки по учебе/Работа с памятью/механизмы очистки памяти.md",
     "Python/Заметки по учебе/Работа с памятью/поверхностное и глубокое копирование объектов.md",
     "Python/Заметки по учебе/Работа с памятью/изменяемые и неизменяемые типы.md",
-    "Python/Заметки по учебе/Работа с памятью/работа переменных в Python.md",
     "Python/Заметки по учебе/Работа с памятью",
     "Python/Заметки по учебе/устройство памяти в Python",
     "Python/Заметки по учебе/Работа с файлами/Pickle"
