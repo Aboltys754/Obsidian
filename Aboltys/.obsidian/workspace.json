@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md"
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "64e1e1826a2f5e2c",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
     "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
+    "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
     "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
