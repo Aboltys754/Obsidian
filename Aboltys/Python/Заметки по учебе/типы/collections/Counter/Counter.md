@@ -399,4 +399,13 @@ my_counter = Counter()
 for i in [[i.split('.')[1]] for i in files]:
 
     my_counter.update(i)
+
+# Это перегнать сразу в строчку все что введет пользоаптель
+Тимур 100
+Анри 88
+Дима 94
+Артур 82
+Владимир 90
+
+c = Counter({i: int(j) for i, j in (s.split() for s in open(0))})
 ```
