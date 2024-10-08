@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
-                "mode": "source",
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md"
+                "file": "Python/Заметки по учебе/типы/collections/Counter/Counter.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "64e1e1826a2f5e2c",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
     "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
+    "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
     "Python/Заметки по учебе/типы/collections/Counter",
     "Python/Заметки по учебе/типы/collections/общее.md",
@@ -179,7 +180,6 @@
     "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Заметки по учебе/типы/общее.md",
-    "Python/Заметки по учебе/типы/str строка/общее о строках.md",
     "Python/Заметки по учебе/Работа с памятью",
     "Python/Заметки по учебе/устройство памяти в Python",
     "Python/Заметки по учебе/Работа с файлами/Pickle"
