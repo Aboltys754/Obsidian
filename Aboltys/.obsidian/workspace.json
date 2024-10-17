@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edb015854e623be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Selenium/Автом. Тестирование/Драйверы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cbd7f0ea98acf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Selenium/Автом. Тестирование/Импорты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c72ca0cb4f313337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Заголовки headers=.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+                "file": "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Заголовки headers=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+                "file": "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Заголовки headers=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md"
+                "file": "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Заголовки headers=.md"
               }
             }
           }
@@ -147,10 +184,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "64e1e1826a2f5e2c",
+  "active": "c72ca0cb4f313337",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap.md",
+    "user_agent.txt",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Атрибуты объекта Response.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Заголовки headers=.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/requests.get().md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/Введение в Requests.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/Преимущества и недостатки библиотеки Requests.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/Установка Requests.md",
+    "Python/venv/Установка.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов/Поиск элементов при помощи XPath.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов/Поиск по составным селекторам.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов/Поиск элементов на странице.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/HTML Атрибуты.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/Строчные элементы.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/Блочные элементы.md",
+    "Python/Selenium/Автом. Тестирование/Ошибки.md",
+    "Python/Selenium/Web-Parsing-Stepik/Элементы и их виды",
+    "Python/Selenium/Автом. Тестирование/Импорты.md",
+    "Python/Selenium/Автом. Тестирование/Драйверы.md",
     "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+    "Python/Selenium/Автом. Тестирование",
+    "Python/Selenium/Web-Parsing-Stepik",
+    "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap.md",
     "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
     "Python/Заметки по учебе/типы/collections/ChainMap",
     "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
@@ -159,30 +220,7 @@
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
-    "Python/Заметки по учебе/типы/collections/OrderedDict/OrderedDict.md",
     "Python/Заметки по учебе/типы/collections/Counter",
-    "Python/Заметки по учебе/типы/collections/общее.md",
-    "Python/Заметки по учебе/типы/collections/DefaultDict/defauldict.md",
-    "Python/Заметки по учебе/типы/collections/OrderedDict",
-    "Python/Заметки по учебе/Коллекции классификация.md",
-    "Python/Заметки по учебе/типы/collections/NamedTuple/namedtuple - именованные кортежи.md",
-    "Python/Заметки по учебе/типы/collections/DefaultDict",
-    "Python/Заметки по учебе/типы/collections/NamedTuple/Сравнение именованных кортежей и словарей.md",
-    "Python/Заметки по учебе/типы/collections/NamedTuple/namedtuple - часть 2.md",
-    "Python/Заметки по учебе/типы/collections/NamedTuple",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 2 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
-    "Python/Заметки по учебе/Функции/Анонимные функции.md",
-    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Работа с файлами/Pickle/Работа с модулем pickle.md",
-    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
-    "Python/Заметки по учебе/типы/str строка/Методы строки.md",
-    "Python/Заметки по учебе/типы/collections",
-    "Python/Заметки по учебе/Работа с памятью",
-    "Python/Заметки по учебе/устройство памяти в Python",
-    "Python/Заметки по учебе/Работа с файлами/Pickle"
+    "Python/Заметки по учебе/типы/collections/OrderedDict"
   ]
 }
