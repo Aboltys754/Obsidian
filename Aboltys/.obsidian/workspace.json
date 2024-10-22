@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+                "file": "SVG/сайты.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+                "file": "SVG/сайты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+                "file": "SVG/сайты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md"
+                "file": "SVG/сайты.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "64e1e1826a2f5e2c",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap.md",
+    "React/Начало.md",
+    "React/Уроки/2 урок 27.05.2022.md",
+    "React/Уроки/1 урок 24.05.2022.md",
+    "React/Пакеты/Без названия.md",
+    "SVG/сайты.md",
     "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap атрибуты и методы.md",
+    "Python/Заметки по учебе/типы/collections/ChainMap/ChainMap.md",
     "Python/Заметки по учебе/типы/collections/Counter/Методы Counter.md",
     "Python/Заметки по учебе/типы/collections/ChainMap",
     "Python/Заметки по учебе/типы/collections/Counter/Counter.md",
@@ -175,11 +180,6 @@
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 2 часть.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Типы данных date и time 1 часть.md",
     "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
-    "Python/Заметки по учебе/Функции/Анонимные функции.md",
-    "Python/Заметки по учебе/Функции/Встроенные функции map(), filter(), reduce().md",
-    "Python/Заметки по учебе/Работа с файлами/Pickle/Работа с модулем pickle.md",
-    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
-    "Python/Заметки по учебе/типы/str строка/Методы строки.md",
     "Python/Заметки по учебе/типы/collections",
     "Python/Заметки по учебе/Работа с памятью",
     "Python/Заметки по учебе/устройство памяти в Python",
