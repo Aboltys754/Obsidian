@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a34e7d807e82c452",
+    "id": "fb95ae49c3b926c6",
     "type": "split",
     "children": [
       {
-        "id": "775b5904678220c5",
+        "id": "828666db2e9ae36a",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf897b1273f7c24",
+            "id": "4666ea5237e9ecdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Работа с датами и временем/datetime/Тип данных timedelta.md",
+                "file": "Python/libs/pyinstaller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тип данных timedelta"
+              "title": "pyinstaller"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "537f46b7dcac3f6b",
+    "id": "e348b499aaf088d5",
     "type": "split",
     "children": [
       {
-        "id": "cc96f50c69c4c780",
+        "id": "09c5ba472c63cf4e",
         "type": "tabs",
         "children": [
           {
-            "id": "772878a14474f1e4",
+            "id": "dfd386fcf23b94b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "dab84be23c8cebd1",
+            "id": "7fbb663598a08b83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "80873cb0cb4cab40",
+            "id": "53caecf37192164c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "f62fc204f11df8b7",
+    "id": "48b453a0340083be",
     "type": "split",
     "children": [
       {
-        "id": "cbe1a5e1a58b5e8e",
+        "id": "a457a768c1daefd0",
         "type": "tabs",
         "children": [
           {
-            "id": "5380540e21328055",
+            "id": "064d5e40b763167b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Уроки/2 урок 27.05.2022.md",
+                "file": "Python/libs/pyinstaller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2 урок 27.05.2022"
+              "title": "Обратные ссылки для pyinstaller"
             }
           },
           {
-            "id": "e07a666a735ba8d7",
+            "id": "da142db69857de06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Уроки/2 урок 27.05.2022.md",
+                "file": "Python/libs/pyinstaller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 2 урок 27.05.2022"
+              "title": "Исходящие ссылки из pyinstaller"
             }
           },
           {
-            "id": "29c58ee7e460d013",
+            "id": "22cefba61e9cc7b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +134,15 @@
             }
           },
           {
-            "id": "bb6d472ac007dafe",
+            "id": "5c864438a5fa10dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Уроки/2 урок 27.05.2022.md"
+                "file": "Python/libs/pyinstaller.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 2 урок 27.05.2022"
+              "title": "Структура pyinstaller"
             }
           }
         ]
@@ -154,34 +154,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdf897b1273f7c24",
+  "active": "4666ea5237e9ecdd",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Работа с датами и временем/datetime/тип данных datetime.md",
-    "Python/Заметки по учебе/Декораторы/Декораторы_1.md",
-    "Python/Заметки по учебе/Декораторы/Декораторы_2.md",
-    "NODE/ES6.md",
     "Python/venv/Установка.md",
-    "Python/venv/Ошибки.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/4. Тип данных struct_time.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/3. Функция calculate_it.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/2. Измерение времени выполнения программы.md",
-    "Python/Заметки по учебе/Работа с датами и временем/time/1. Модуль time.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.find().md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.find_all().md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.1 Установка и импорт.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.select().md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/3.2 Объект супа в BeautifulSoup.md",
-    "React/Уроки/2 урок 27.05.2022.md",
-    "React/Уроки/1 урок 24.05.2022.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/text и  get_text.md"
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.select_one().md"
   ]
 }
