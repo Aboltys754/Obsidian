@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/libs/pyinstaller.md",
-                "mode": "source",
+                "file": "Python/Selenium/Web-Parsing-Stepik/requsests/Содержимое ответа  response  .json() .text .content.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pyinstaller"
+              "title": "Содержимое ответа  response  .json() .text .content"
             }
           }
         ]
@@ -165,7 +165,11 @@
   },
   "active": "4666ea5237e9ecdd",
   "lastOpenFiles": [
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/3.2 Объект супа в BeautifulSoup.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/HTTP Adapter.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.1 Установка и импорт.md",
     "Python/venv/Установка.md",
+    "Python/libs/pyinstaller.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.select_one().md"
   ]
 }
