@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/requsests/Содержимое ответа  response  .json() .text .content.md",
+                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Содержимое ответа  response  .json() .text .content"
+              "title": "Часть - 1"
             }
           }
         ]
@@ -165,9 +165,25 @@
   },
   "active": "4666ea5237e9ecdd",
   "lastOpenFiles": [
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/3.2 Объект супа в BeautifulSoup.md",
-    "Python/Selenium/Web-Parsing-Stepik/requsests/HTTP Adapter.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Получение значения атрибута у HTML-тега с помощью метода .get().md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 1.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.1 Установка и импорт.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Обработка двойных классов с помощью BeautifulSoup.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/3.2 Объект супа в BeautifulSoup.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/3.1 Приготовление супа.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.2 Преобразование HTML в объект BeautifulSoup.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Поиск по class, id, поиск по атрибутам.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Навигация по структуре HTML.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.find().md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/text и  get_text.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов/Поиск элементов при помощи XPath.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов/Поиск по составным селекторам.md",
+    "Python/Selenium/Web-Parsing-Stepik/Dom дерево/поиск элементов/Поиск элементов на странице.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/previous_sibling и next_sibling.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/Содержимое ответа  response  .json() .text .content.md",
+    "Python/Selenium/Web-Parsing-Stepik/requsests/HTTP Adapter.md",
     "Python/venv/Установка.md",
     "Python/libs/pyinstaller.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.select_one().md"
