@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 1.md",
+                "file": "Docker/Часто используемые команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть - 1"
+              "title": "Часто используемые команды"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "4666ea5237e9ecdd",
   "lastOpenFiles": [
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Получение значения атрибута у HTML-тега с помощью метода .get().md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 1.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Получение значения атрибута у HTML-тега с помощью метода .get().md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.1 Установка и импорт.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Обработка двойных классов с помощью BeautifulSoup.md",
