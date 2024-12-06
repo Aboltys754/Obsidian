@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV/Часть 3.md",
+                "file": "Docker/Создание образа.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 3"
+              "title": "Создание образа"
             }
           }
         ],
@@ -180,8 +180,21 @@
   },
   "active": "b72125f3a2350951",
   "lastOpenFiles": [
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV/Часть 2.md",
+    "Docker/Часто используемые команды.md",
+    "Docker/Создание образа.md",
+    "Docker/Команды/docker.md",
+    "Docker/Команды/images.md",
+    "Docker/Команды/info.md",
+    "Docker/Команды/pause.md",
+    "Docker/Команды/ps.md",
+    "Docker/Команды/pull.md",
+    "Docker/Команды/restart.md",
+    "Docker/Команды/run.md",
+    "Docker/Команды/start.md",
+    "Docker/Команды/stop.md",
+    "Docker/Команды/unpause.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV/Часть 3.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV/Часть 2.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV/Часть 1.md",
     "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV",
@@ -196,19 +209,6 @@
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Без названия.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.find().md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Основные методы/soup.select().md",
-    "Docker/Часто используемые команды.md",
-    "Python/Selenium/Автом. Тестирование/Драйверы.md",
-    "Python/Selenium/Автом. Тестирование/Импорты.md",
-    "Python/Selenium/Автом. Тестирование/Ошибки.md",
-    "Python/Selenium/Автом. Тестирование/Работа с браузером в Selenium.md",
-    "Python/Selenium/Автом. Тестирование/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
-    "Python/Selenium/Автом. Тестирование/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 3.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 2.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация/Часть - 1.md",
-    "Python/Заметки по учебе/Функции/Функции any(), all(), zip(), enumerate().md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов/Получение значения атрибута у HTML-тега с помощью метода .get().md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов"
   ]
