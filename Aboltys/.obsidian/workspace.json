@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
+                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON часть 2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON часть 3"
+              "title": "Парсим JSON часть 2"
             }
           }
         ],
@@ -180,8 +180,10 @@
   },
   "active": "b72125f3a2350951",
   "lastOpenFiles": [
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 2.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON часть 2.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 2.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON.md",
     "Docker/Создание образа.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON",
@@ -206,9 +208,7 @@
     "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
     "Python/Заметки по учебе/типы/dict словарь/Функции словаря.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Парсинг таблиц/Парсинг табличных данных.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX/Передача параметров с AJAX запросом.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Парсинг таблиц",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX/AJAX.md",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация",
     "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов"
