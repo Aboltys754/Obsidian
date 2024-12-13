@@ -13,12 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
                 "mode": "source",
+=======
+                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
+                "mode": "preview",
+>>>>>>> d831fc8a12b2fab34754fa003aa64fc0a26a36cb
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON часть 3"
+              "title": "Основные методы Selenium"
             }
           }
         ]
@@ -163,6 +168,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "15ce9e9250958589",
   "lastOpenFiles": []
+=======
+  "active": "b72125f3a2350951",
+  "lastOpenFiles": [
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Комбинирование .find_element() и .find_elements().md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Поиск элементов Selenium.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Объект WebElement.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Работаем с браузером.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/find_element() и find_elements().md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера в скрытом режиме.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Proxy и Selenium.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Перенос профиля с основного браузера Chrome в браузер под управлением Selenium.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера в скрытом режиме с расширением.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Расширяем возможности использования Selenium.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера с расширениями.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы",
+    "Python/openCV/Ссылки.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium",
+    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
+    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON часть 2.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 2.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON.md",
+    "Docker/Создание образа.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON",
+    "Docker/Часто используемые команды.md",
+    "Docker/Команды/docker.md",
+    "Docker/Команды/images.md",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Парсинг таблиц",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация",
+    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов"
+  ]
+>>>>>>> d831fc8a12b2fab34754fa003aa64fc0a26a36cb
 }
