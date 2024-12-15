@@ -1,29 +1,24 @@
 {
   "main": {
-    "id": "e44eeb6be738d11d",
+    "id": "d250479f71cbcdf1",
     "type": "split",
     "children": [
       {
-        "id": "290e2e5f4c8f5094",
+        "id": "0526db73efde0862",
         "type": "tabs",
         "children": [
           {
-            "id": "15ce9e9250958589",
+            "id": "09f5a33dab9bad26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
+                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
                 "mode": "source",
-=======
-                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
-                "mode": "preview",
->>>>>>> d831fc8a12b2fab34754fa003aa64fc0a26a36cb
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные методы Selenium"
+              "title": "Работа с файлами 3"
             }
           }
         ]
@@ -32,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d5a60453ff746aca",
+    "id": "61b80753b1c657f2",
     "type": "split",
     "children": [
       {
-        "id": "2cd2407bd983801b",
+        "id": "eeaaa83405ed910f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb45afd1f065e69f",
+            "id": "ed2a9624b381c84f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +47,7 @@
             }
           },
           {
-            "id": "5a24859fd06b6624",
+            "id": "cd4dcb8572891b15",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +64,7 @@
             }
           },
           {
-            "id": "68210e02340f419e",
+            "id": "a40d810a27412202",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "ff2d5b688b3cd360",
+    "id": "838e0050dc181841",
     "type": "split",
     "children": [
       {
-        "id": "4312e0c5c5efcba0",
+        "id": "8b93e98dfface687",
         "type": "tabs",
         "children": [
           {
-            "id": "df19772930cbe482",
+            "id": "2c777244ca4c7d9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
+                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для JSON часть 3"
+              "title": "Обратные ссылки для Работа с файлами 3"
             }
           },
           {
-            "id": "b1b2668aeef06174",
+            "id": "fe37764215152d82",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
+                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из JSON часть 3"
+              "title": "Исходящие ссылки из Работа с файлами 3"
             }
           },
           {
-            "id": "51baa679c1b977f8",
+            "id": "ac99f3bd845992b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,15 +134,15 @@
             }
           },
           {
-            "id": "d35dd8d7ca94c9d6",
+            "id": "13c2719f83aaf14d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md"
+                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md"
               },
               "icon": "lucide-list",
-              "title": "Структура JSON часть 3"
+              "title": "Структура Работа с файлами 3"
             }
           }
         ]
@@ -168,48 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-<<<<<<< HEAD
-  "active": "15ce9e9250958589",
-  "lastOpenFiles": []
-=======
-  "active": "b72125f3a2350951",
+  "active": "09f5a33dab9bad26",
   "lastOpenFiles": [
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Комбинирование .find_element() и .find_elements().md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Поиск элементов Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Объект WebElement.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Работаем с браузером.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/find_element() и find_elements().md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера в скрытом режиме.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Proxy и Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Перенос профиля с основного браузера Chrome в браузер под управлением Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера в скрытом режиме с расширением.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Расширяем возможности использования Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера с расширениями.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы",
-    "Python/openCV/Ссылки.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium",
-    "Python/Заметки по учебе/типы/dict словарь/общее о  словарях.md",
-    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON часть 2.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/Парсим JSON.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 3.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON часть 2.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON/JSON.md",
-    "Docker/Создание образа.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/JSON",
-    "Docker/Часто используемые команды.md",
-    "Docker/Команды/docker.md",
-    "Docker/Команды/images.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/CSV",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Парсинг таблиц",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Пагинация",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/Поиск узлов и элементов"
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Python/Заметки по учебе/Работа с файлами/Pickle/Работа с модулем pickle.md"
   ]
->>>>>>> d831fc8a12b2fab34754fa003aa64fc0a26a36cb
 }
