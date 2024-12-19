@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies/Добавление cookie.md",
+                "file": "Git/git_stepik/Команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добавление cookie"
+              "title": "Команды"
             }
           }
         ]
@@ -165,8 +165,16 @@
   },
   "active": "09f5a33dab9bad26",
   "lastOpenFiles": [
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies/Cookies на практике.md",
+    "Git/Ссылки.md",
+    "Git/git book.md",
+    "Git/git ignore.md",
+    "Git/readme.md.md",
+    "Git/git hub/Команды.md",
+    "Git/git lab/команды.md",
+    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
+    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies/Добавление cookie.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies/Cookies на практике.md",
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies/Cookies.md",
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies",
@@ -180,7 +188,6 @@
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Комбинирование .find_element() и .find_elements().md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
     "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
     "Python/Заметки по учебе/Работа с файлами/Pickle/Работа с модулем pickle.md"
   ]
 }
