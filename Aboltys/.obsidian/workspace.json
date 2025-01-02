@@ -1,40 +1,24 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "4cfb322705b63319",
+    "id": "be0e2b2aa228f4d0",
     "type": "split",
     "children": [
       {
-        "id": "d2467bb2169fab04",
+        "id": "9d18ed9ece4ced98",
         "type": "tabs",
         "children": [
           {
-            "id": "f3325cac8f036951",
-=======
-    "id": "d250479f71cbcdf1",
-    "type": "split",
-    "children": [
-      {
-        "id": "0526db73efde0862",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09f5a33dab9bad26",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "1e035f16ad03f492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
-=======
-                "file": "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/3. Task.md",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+                "file": "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Task"
+              "title": "2 Запуск цикла событий"
             }
           }
         ]
@@ -43,27 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "30c2cf1277c6574a",
+    "id": "480fb0a65b35139f",
     "type": "split",
     "children": [
       {
-        "id": "f2eb7fb36f11c54f",
+        "id": "3c15c67ae0c67a89",
         "type": "tabs",
         "children": [
           {
-            "id": "332387e1cf744a82",
-=======
-    "id": "61b80753b1c657f2",
-    "type": "split",
-    "children": [
-      {
-        "id": "eeaaa83405ed910f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed2a9624b381c84f",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "1776483522e4b868",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,11 +47,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3a28c2c9c0f43176",
-=======
-            "id": "cd4dcb8572891b15",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "267a1da2d290a3cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,11 +64,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "8f5e5ef4f6fb8ee9",
-=======
-            "id": "a40d810a27412202",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "0f399d063cae8287",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,36 +80,19 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "f4d994cd490defb2",
+    "id": "98bbe13524d57e0e",
     "type": "split",
     "children": [
       {
-        "id": "1ac2cbff54aa70b5",
+        "id": "a5f85067559ab245",
         "type": "tabs",
         "children": [
           {
-            "id": "bd16fdc5f7b4f06a",
-=======
-    "id": "838e0050dc181841",
-    "type": "split",
-    "children": [
-      {
-        "id": "8b93e98dfface687",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c777244ca4c7d9f",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "fd3359427fcacf63",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
-=======
-                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,45 +102,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Обратные ссылки для Основные методы Selenium"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "2ab52be290898a98",
-=======
-              "title": "Обратные ссылки для Работа с файлами 3"
-            }
-          },
-          {
-            "id": "fe37764215152d82",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "075c027bc59245f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
-=======
-                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Исходящие ссылки из Основные методы Selenium"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "1611236c8db27bc2",
-=======
-              "title": "Исходящие ссылки из Работа с файлами 3"
-            }
-          },
-          {
-            "id": "ac99f3bd845992b2",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "03b3b0e20b234589",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -206,26 +132,13 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "36cc119cc19f9711",
-=======
-            "id": "13c2719f83aaf14d",
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+            "id": "23e265c43bda939c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура Основные методы Selenium"
-=======
-                "file": "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Работа с файлами 3"
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
+              "title": "Структура"
             }
           }
         ]
@@ -246,45 +159,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-<<<<<<< HEAD
-  "active": "f3325cac8f036951",
-  "lastOpenFiles": []
-=======
-  "active": "09f5a33dab9bad26",
+  "active": "1e035f16ad03f492",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/4.1 Объекты Task и Future.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/4.2 Объект Future часть 2.md",
-    "Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/3. Task.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/4. Future",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/4. Future.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/2. Корутины.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/1. Основные элементы asyncio.md",
-    "Python/Заметки по учебе/Асинхронный python/1.1 Введение в асинхронность/1. Введение в асинхронное программирование.md",
-    "Python/Заметки по учебе/Асинхронный python/1.1 Введение в асинхронность/2. Первая встреча.md",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/4 GIL/GIL (Global Interpreter Lock) - что же это такое и зачем он нужен.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/4 GIL/Global Interpreter Lock.md",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/4. В каких задачах бесполезно асинхронное программирование.md",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/4 GIL",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/3 В каких задачах полезно асинхронное программирование.md",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/2. IO bound и CPU bound.md",
-    "Python/Selenium/Web-Parsing-Stepik/requsests/методы ruquests/Атрибуты объекта Response.md",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio/1. Основные преимущества asyncio.md",
-    "Python/Заметки по учебе/Асинхронный python/1.2 Основные преимущества asyncio",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
-    "Python/Заметки по учебе/Асинхронный python/1.1 Введение в асинхронность",
-    "Python/Заметки по учебе/Асинхронный python",
-    "Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
-    "Python/Заметки по учебе/Работа с файлами/Потоковый ввод stdin и вывод stdout/1. Потоковый ввод stdin и вывод stdout.md",
-    "Python/Заметки по учебе/Работа с файлами/CSV/Работа с csv файлами.md",
-    "Python/venv/Установка.md",
-    "Python/venv/Ошибки.md",
-    "Git/git_stepik/Команды.md",
-    "Git/Ссылки.md",
-    "Git/git book.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Cookies"
+    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/1 Методы Asyncio.md",
+    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
+    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/7 Цикл событий (event loop).md",
+    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio",
+    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/6 Ключевое слово await.md",
+    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/6.2 Визуализация await.md",
+    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/5. Awaitable объекты в asyncio.md"
   ]
->>>>>>> 75a0424932cf6648b8fa9084021d0fb6e28bf975
 }
