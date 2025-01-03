@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
+                "file": "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/3 asyncio.sleep().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Запуск цикла событий"
+              "title": "3 asyncio.sleep()"
             }
           }
         ]
@@ -161,8 +161,9 @@
   },
   "active": "1e035f16ad03f492",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/1 Методы Asyncio.md",
     "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
+    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/3 asyncio.sleep().md",
+    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/1 Методы Asyncio.md",
     "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/7 Цикл событий (event loop).md",
     "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio",
     "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/6 Ключевое слово await.md",
