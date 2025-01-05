@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/3 asyncio.sleep().md",
+                "file": "Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 asyncio.sleep()"
+              "title": "Установка"
             }
           }
         ]
@@ -161,8 +161,12 @@
   },
   "active": "1e035f16ad03f492",
   "lastOpenFiles": [
-    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Комбинирование .find_element() и .find_elements().md",
+    "Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
+    "Python/venv/Установка.md",
+    "Python/Ссылки.md",
     "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/3 asyncio.sleep().md",
+    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
     "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/1 Методы Asyncio.md",
     "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/7 Цикл событий (event loop).md",
     "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio",
