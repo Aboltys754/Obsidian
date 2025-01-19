@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "be0e2b2aa228f4d0",
+    "id": "2dc709c63a5ea543",
     "type": "split",
     "children": [
       {
-        "id": "9d18ed9ece4ced98",
+        "id": "82c7f426182c54e2",
         "type": "tabs",
         "children": [
           {
-            "id": "1e035f16ad03f492",
+            "id": "df6bc5c087de7557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Уроки/3 урок 31.05.2022.md",
+                "file": "React/Уроки/2 урок 27.05.2022.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 урок 31.05.2022"
+              "title": "2 урок 27.05.2022"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "480fb0a65b35139f",
+    "id": "1b2c5675f0aaa9c2",
     "type": "split",
     "children": [
       {
-        "id": "3c15c67ae0c67a89",
+        "id": "631f023d462e1e91",
         "type": "tabs",
         "children": [
           {
-            "id": "1776483522e4b868",
+            "id": "74c9045bdb8a0a60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "267a1da2d290a3cc",
+            "id": "cc4035a125220aeb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "0f399d063cae8287",
+            "id": "9b87444b4106c808",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "98bbe13524d57e0e",
+    "id": "862a4fec192728b5",
     "type": "split",
     "children": [
       {
-        "id": "a5f85067559ab245",
+        "id": "733580692d1f1378",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3359427fcacf63",
+            "id": "97ee944f95a60733",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Уроки/2 урок 27.05.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для 2 урок 27.05.2022"
             }
           },
           {
-            "id": "075c027bc59245f9",
+            "id": "8bd3d8a96c557a4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Уроки/2 урок 27.05.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из 2 урок 27.05.2022"
             }
           },
           {
-            "id": "03b3b0e20b234589",
+            "id": "0d986a06f96a3c24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +134,15 @@
             }
           },
           {
-            "id": "23e265c43bda939c",
+            "id": "08128ed4ac70dfd9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "React/Уроки/2 урок 27.05.2022.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 2 урок 27.05.2022"
             }
           }
         ]
@@ -159,22 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e035f16ad03f492",
+  "active": "df6bc5c087de7557",
   "lastOpenFiles": [
+    "React/Уроки/3 урок 31.05.2022.md",
     "React/Уроки/2 урок 27.05.2022.md",
-    "React/Уроки/1 урок 24.05.2022.md",
-    "React/Пакеты/Без названия.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Комбинирование .find_element() и .find_elements().md",
-    "Python/venv/Установка.md",
-    "Python/Ссылки.md",
-    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/3 asyncio.sleep().md",
-    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/2 Запуск цикла событий.md",
-    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio/1 Методы Asyncio.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/7 Цикл событий (event loop).md",
-    "Python/Заметки по учебе/Асинхронный python/4  Основы работы с Asyncio",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/6 Ключевое слово await.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/6.2 Визуализация await.md",
-    "Python/Заметки по учебе/Асинхронный python/3  Awaitable объекты/5. Awaitable объекты в asyncio.md"
+    "React/Уроки/1 урок 24.05.2022.md"
   ]
 }
