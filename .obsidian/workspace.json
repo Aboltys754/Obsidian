@@ -1,26 +1,24 @@
 {
   "main": {
-    "id": "24fa4e883bbdd8c3",
+    "id": "f3d89a7dcb9557c5",
     "type": "split",
     "children": [
       {
-        "id": "dc85587cb974a151",
+        "id": "1439e3dc4e1d8ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "2218cf33cbfffc4f",
+            "id": "962fe564f51354c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Aboltys/NODE/Начало.md",
-=======
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
->>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
+                "file": "Aboltys/Python/venv/Установка.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Установка"
             }
           }
         ]
@@ -29,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "add81372c3f24595",
+    "id": "0e9db3fce1f056c6",
     "type": "split",
     "children": [
       {
-        "id": "4302a9900555d128",
+        "id": "867bcead0a68748a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2e893837f2d564",
+            "id": "cbb3a1f03c1a57ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "c7d88f13ff248ad7",
+            "id": "047ac2ac31cd56f9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,23 +58,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
-            "id": "ff4a49bd3c104481",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c21d86b09780ed27",
+            "id": "e32022a5c492ffe0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -84,24 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "f3948f06eab2ec6c",
+    "id": "8ba5b7ef68a15c2d",
     "type": "split",
     "children": [
       {
-        "id": "51a6cc76eceb6009",
+        "id": "d4b0b41a61afb62c",
         "type": "tabs",
         "children": [
           {
-            "id": "55f45ffa3175711a",
+            "id": "e77dfd9df01f37ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Aboltys/NODE/Начало.md",
-=======
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
->>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
+                "file": "Aboltys/Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,48 +101,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Генерация нового SSH-ключа и добавление его в ssh-agent"
             }
           },
           {
-            "id": "3ab8cece386914f3",
+            "id": "2f99552773654e78",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Aboltys/NODE/Начало.md",
-=======
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
->>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
+                "file": "Aboltys/Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Генерация нового SSH-ключа и добавление его в ssh-agent"
             }
           },
           {
-            "id": "62876dc780ded1d3",
+            "id": "def39a1e0120691e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
-            "id": "af70b229b3475f79",
+            "id": "bd22da63a4323dbf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Aboltys/NODE/Начало.md"
-=======
-                "file": "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md"
->>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
-              }
+                "file": "Aboltys/Git/git hub/ssh/Генерация нового SSH-ключа и добавление его в ssh-agent.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Генерация нового SSH-ключа и добавление его в ssh-agent"
             }
           }
         ]
@@ -162,76 +154,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2218cf33cbfffc4f",
+  "active": "962fe564f51354c4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Aboltys/NODE/stream.md",
-    "Aboltys/NODE/Начало.md",
-    "Aboltys/NODE/ES6.md",
-    "Aboltys/NODE/http.md",
-    "Aboltys/NODE/Export and Import.md",
-    "Aboltys/NODE/Export.md",
-    "Aboltys/Docker/Часто используемые команды.md",
-=======
-    "Aboltys/Python/SQLAlchemy/Работа с метаданными базы данных CORE и ORM.md",
-    "Aboltys/Python/SQLAlchemy/Работа с данными. INSERT, SELECT,.md",
-    "Aboltys/Python/SQLAlchemy/Подключение.md",
-    "Aboltys/Python/SQLAlchemy/Получение строк CORE и ORM.md",
-    "Aboltys/Python/SQLAlchemy/Установка.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Г) Создание таблицы.md",
-    "Aboltys/Python/SQLAlchemy",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/В) Выбор типов данных для полей.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Д) Вставка записи в таблицу.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/Б) Отношение, реляционная модель.md",
-    "Aboltys/BD/SQL/1.1 Основы баз и SQL/А) Основные понятия реляционных баз данных.md",
-    "Aboltys/BD/SQL/1.4 Вложенные запросы/Вложенный запрос, возвращающий одно значение.md",
-    "Aboltys/BD/SQL/Команды.md",
-    "Aboltys/BD/PostgreSQL/Команды.md",
-    "Aboltys/Python/fastAPI/query запросы в пути.md",
-    "Aboltys/Python/fastAPI/path параметры.md",
-    "Aboltys/Python/fastAPI/body параметры.md",
-    "Aboltys/Python/fastAPI/Тело запроса.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/Е) Выборка данных, вычисляемые столбцы, логические функции.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/Ж) Выборка данных по условию.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/З) Выборка данных, логические операции.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/И) Выборка данных, операторы BETWEEN, IN.md",
-    "Aboltys/BD/SQL/1.2 Выборка данных/К) Выборка данных с сортировкой.md",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Г) Выборка данных c вычислением, групповые функции.md",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/В) Выборка данных, групповые функции MIN, MAX и AVG.md",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/Б) Выборка данных, групповые функции SUM и COUNT.md",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции/А) Выбор уникальных элементов столбца.md",
-    "Pasted image 20231119054907.png",
-    "Aboltys/BD/SQL/1.4 Вложенные запросы",
-    "Pasted image 20231119051635.png",
-    "Pasted image 20231118205732.png",
-    "Pasted image 20231118205528.png",
-    "Pasted image 20231118190705.png",
-    "Pasted image 20231118190354.png",
-    "t1.png",
-    "Aboltys/BD/SQL/1.3 Запросы, групповые опции",
-    "Aboltys/Python/fastAPI",
-    "Aboltys/Linter",
->>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
-    "Aboltys/NODE",
-    "Aboltys/Docker/Команды",
-    "Aboltys/Docker",
-<<<<<<< HEAD
-    "Aboltys/React/Уроки/5 урок 07.06.2022.md",
-    "Aboltys/React/Уроки/3 урок 31.05.2022.md",
-    "Aboltys/React/Уроки/2 урок 27.05.2022.md",
-    "Aboltys/React/Уроки/1 урок 24.05.2022.md",
-    "Aboltys/SVG/сайты.md",
-    "Aboltys/TS/ts object.md",
-=======
->>>>>>> 67c0094c479671778e37d0efe7d17c2a8a7cf4ae
-    "Aboltys/JS/DOM"
+    "Aboltys/Python/Selenium/Автом. Тестирование/Ультимативная шпаргалка по Selenium с Python для автоматизации тестирования.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
+    "Aboltys/Python/Selenium/обход для озона.md",
+    "Aboltys/Python/Selenium/Скачивание в Linux.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/Драйверы.md",
+    "Aboltys/Python/venv/Установка.md",
+    "Aboltys/Python/Заметки по учебе/Работа с файлами/JSON/работа с json файломи.md",
+    "Aboltys/Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 3.md",
+    "Aboltys/Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 2.md",
+    "Aboltys/Python/Заметки по учебе/Работа с текстовыми файломи/Работа с файлами 1.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Метод get_attribute.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/2. Полезные методы в Selenium/2.1 Основные методы Selenium/Как работать с элементами типа checkbox и radiobutton.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/1. Поиск элементов/С помощью составных CSS-селекторов.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/1. Поиск элементов/Поиск всех необходимых элементов с помощью find_elements.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера в скрытом режиме.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/Selenium/опции и аргументы/Запуск браузера в скрытом режиме с расширением.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/Работа с браузером в Selenium.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/Ошибки.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/Импорты.md",
+    "Aboltys/Python/Selenium/Автом. Тестирование/2. Полезные методы в Selenium/Ссылки.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX/Передача параметров с AJAX запросом.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX/AJAX.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.2 Преобразование HTML в объект BeautifulSoup.md",
+    "Aboltys/Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/2.1 Установка и импорт.md",
+    "Aboltys/Python/Ссылки.md",
+    "Pasted image 20230205103840.png",
+    "Aboltys/Pasted image 20240922112243.png",
+    "Aboltys/Pasted image 20240922112236.png"
   ]
 }
