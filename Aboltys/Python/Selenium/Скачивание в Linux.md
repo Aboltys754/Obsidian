@@ -11,4 +11,12 @@ mv chromedriver-linux64 chromedriver
 rm chrome-linux64.zip
 rm chromedriver-linux64.zip
 
+chmod 777 -R chrome
+chmod 777 -R chromedriver
+
+```
+
+```bash
+rm -R chrome
+rm -R chromedriver
 ```
