@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "806d28808a142912",
+        "id": "90dedb7bb63dc48c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c4987c5c9ad77f5",
+            "id": "bb76c834e9603f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/fastAPI/2 Знакомство с FastAPI/2.3 Знакомство с документацией API.md",
+                "file": "Python/fastAPI/2 Знакомство с FastAPI/2.5 Валидация параметров маршрутов (Path, Query).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Знакомство с документацией API"
+              "title": "2.5 Валидация параметров маршрутов (Path, Query)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Уроки/2 урок 27.05.2022.md",
+                "file": "Python/fastAPI/2 Знакомство с FastAPI/2.5 Валидация параметров маршрутов (Path, Query).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2 урок 27.05.2022"
+              "title": "Обратные ссылки для 2.5 Валидация параметров маршрутов (Path, Query)"
             }
           },
           {
@@ -165,13 +165,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c4987c5c9ad77f5",
+  "active": "bb76c834e9603f43",
   "lastOpenFiles": [
-    "Python/fastAPI/2 Знакомство с FastAPI/2.2 Установка Fastapi и зависимостей.md",
-    "Python/fastAPI/2 Знакомство с FastAPI/2.3 Знакомство с документацией API.md",
+    "2026-02-16_16-50 1.png",
+    "Python/fastAPI/2 Знакомство с FastAPI/2.5 Валидация параметров маршрутов (Path, Query).md",
+    "2026-02-16_16-48.png",
+    "2026-02-16_16-48 1.png",
+    "2026-02-16_16-50.png",
+    "Pasted image 20260216164752.png",
+    "Pasted image 20240922112236.png",
+    "Pasted image 20240922112243.png",
+    "Pasted image 20250214093542.png",
+    "Pasted image 20260216164723.png",
+    "Python/fastAPI/2 Знакомство с FastAPI/2.4 Маршрутизация в FastAPI.md",
     "Python/fastAPI/2 Знакомство с FastAPI/2.1 Что такое FastAPI.md",
+    "Python/Заметки по учебе/типы/dict словарь/Методы dict.md",
+    "Python/fastAPI/2 Знакомство с FastAPI/2.3 Знакомство с документацией API.md",
     "Python/Airflow/ссылки на установку и запуск.md",
     "Python/venv/pyenv.md",
+    "Python/fastAPI/2 Знакомство с FastAPI/2.2 Установка Fastapi и зависимостей.md",
     "Python/Airflow",
     "Python/fastAPI/1.Введение в API/1.4 HTTP коды состояний.md",
     "Python/fastAPI/1.Введение в API/1.3 HTTP методы и идемпотентность.md",
@@ -192,11 +204,6 @@
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Установка.md",
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Объект WebElement.md",
     "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Поиск элементов Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Поиск элементов/Работаем с браузером.md",
-    "Python/Selenium/Web-Parsing-Stepik/Selenium/Методы Selenium/Основные методы Selenium.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX/AJAX.md",
-    "Python/Selenium/Web-Parsing-Stepik/BeautifulSoup/AJAX/Передача параметров с AJAX запросом.md",
-    "Pasted image 20250214093542.png",
     "Linux/Ubuntu",
     "Linux"
   ]
