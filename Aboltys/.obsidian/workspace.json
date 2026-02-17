@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/fastAPI/2 Знакомство с FastAPI/2.5 Валидация параметров маршрутов (Path, Query).md",
+                "file": "Python/fastAPI/3 Создание CRUD-приложения/3.1 Проектирование и реализация REST API (GET, POST, PUT, DELETE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Валидация параметров маршрутов (Path, Query)"
+              "title": "3.1 Проектирование и реализация REST API (GET, POST, PUT, DELETE)"
             }
           }
         ]
@@ -167,8 +167,10 @@
   },
   "active": "bb76c834e9603f43",
   "lastOpenFiles": [
-    "2026-02-16_16-50 1.png",
     "Python/fastAPI/2 Знакомство с FastAPI/2.5 Валидация параметров маршрутов (Path, Query).md",
+    "Python/fastAPI/3 Создание CRUD-приложения/3.1 Проектирование и реализация REST API (GET, POST, PUT, DELETE).md",
+    "Python/fastAPI/3 Создание CRUD-приложения",
+    "2026-02-16_16-50 1.png",
     "2026-02-16_16-48.png",
     "2026-02-16_16-48 1.png",
     "2026-02-16_16-50.png",
